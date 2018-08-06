@@ -4,7 +4,7 @@ CMS User Guide
 
 This CMS User Guide serves the purpose of providing explanations and introduction on different Modules in the CMS System of Ztore.
 
-![](../.gitbook/assets/banner-image-9.PNG)
+|image0|
 
 
 .. image:: https://img.shields.io/pypi/v/sphinx_rtd_theme.svg
@@ -56,3 +56,5 @@ Contributing
 If you would like to help improve the theme or have more control
 over the theme in case of a fork please read our contributing guide
 `here <https://sphinx-rtd-theme.readthedocs.io/en/latest/contributing.html>`__.
+
+.. |image0| image:: homepage.png
