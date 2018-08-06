@@ -87,8 +87,7 @@ Users can create new Banner item by clicking on the “Create Banner” button o
     * - Neighbor
       - The field states that banner is only display for 'VIP' customers or not
     * - Shop 
-      - This banner group belongs to which shop. Almost banner group also belongs to Ztore. The home banner will be displayed in Home page https://www.ztore.com. 
-For other shop, e.g. 社企, the home banner will be displayed in shop landing page https://www.ztore.com/tc/shop/group/Social-Enterprises
+      - This banner group belongs to which shop. Almost banner group also belongs to Ztore. The home banner will be displayed in Home page https://www.ztore.com. For other shop, e.g. 社企, the home banner will be displayed in shop landing page https://www.ztore.com/tc/shop/group/Social-Enterprises
     * - Status
       - Active or Inactive Banner
       
