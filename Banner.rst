@@ -34,8 +34,7 @@ Banner Module
     * - Checkout?
       - upload a banner and display it in different checkout pages. E.g. you can set the banner display in checkout/cart,         checkout/address... 
     * - Shop
-      - This banner group belongs to which shop. Almost banner group also belongs to Ztore. The home banner will be displayed in Home page https://www.ztore.com. 
-For other shop, e.g. 社企, the home banner will be displayed in shop landing page https://www.ztore.com/tc/shop/group/Social-Enterprises
+      - This banner group belongs to which shop. Almost banner group also belongs to Ztore. The home banner will be displayed in Home page https://www.ztore.com. For other shop, e.g. 社企, the home banner will be displayed in shop landing page https://www.ztore.com/tc/shop/group/Social-Enterprises
     * - Status
       - Active/ Inactive Banner
     * - Action
