@@ -4,7 +4,7 @@ CMS User Guide
 
 This CMS User Guide serves the purpose of providing explanations and introduction on different Modules in the CMS System of Ztore.
 
-![](Home Page.png)
+![](../homepage.PNG)
 
 
 .. image:: https://img.shields.io/pypi/v/sphinx_rtd_theme.svg
