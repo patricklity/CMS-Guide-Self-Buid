@@ -67,6 +67,21 @@ Users can create new Banner item by clicking on the “Create Banner” button o
 
 |Bannercreate|
 
+.. list-table:: Banner Module Buttons
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+    * - Create Banner
+      - Users can create new Banner by inputting Banner details into the popup window
+    * - Other Search
+      - User can filter Banner items by their status
+    * - Id, name, image name Input Box
+      - User can carry out easy search by inputting Banner details into the Input Box
+      
+      
 .. |Bannermodule| image:: Bannermodule.jpg
 .. |Bannerbuttons| image:: Bannerbuttons.JPG
 .. |Bannercreate| image:: Bannercreate.jpg
