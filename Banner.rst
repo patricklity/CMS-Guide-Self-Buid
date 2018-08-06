@@ -9,7 +9,7 @@ Banner Module
 |Bannermodule|
 
 Banner Module displays the details of different Banners made by our colleagues for promotion.
-==================
+
 
 .. list-table:: Banner Module
     :widths: 10 50
