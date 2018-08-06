@@ -74,12 +74,23 @@ Users can create new Banner item by clicking on the “Create Banner” button o
 
     * - FIELD NAME
       - FIELD DESCRIPTION
-    * - Create Banner
-      - Users can create new Banner by inputting Banner details into the popup window
-    * - Other Search
-      - User can filter Banner items by their status
-    * - Id, name, image name Input Box
-      - User can carry out easy search by inputting Banner details into the Input Box
+    * - ID
+      - The Banner ID
+    * - Name
+      - The Name of the Banner
+    * - Start Date
+      - The Starting Day of posting the banner on website
+    * - End Date
+      - The Final Day of posting the banner on website
+    * - Promotion Id
+      - The id of promotion which connects with this banner group. If set, the banner will be inactivated when the promotion end
+    * - Neighbor
+      - The field states that banner is only display for 'VIP' customers or not
+    * - Shop 
+      - This banner group belongs to which shop. Almost banner group also belongs to Ztore. The home banner will be displayed in Home page https://www.ztore.com. 
+For other shop, e.g. 社企, the home banner will be displayed in shop landing page https://www.ztore.com/tc/shop/group/Social-Enterprises
+    * - Status
+      - Active or Inactive Banner
       
       
 .. |Bannermodule| image:: Bannermodule.jpg
