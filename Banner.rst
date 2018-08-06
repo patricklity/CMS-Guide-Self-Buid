@@ -68,6 +68,6 @@ Users can create new Banner item by clicking on the “Create Banner” button o
 
 .. |Bannermodule| image:: Bannermodule.jpg
 .. |Bannerbuttons| image:: Bannerbuttons.JPG
-.. |Bannerbuttons| image:: Bannerbuttons.JPG
+.. |Bannercreate| image:: Bannercreate.jpg
 
 
