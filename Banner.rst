@@ -52,3 +52,4 @@ Buttons
 
 
 .. |Bannermodule| image:: Bannermodule.jpg
+.. |Bannerbuttons| image:: Bannerbuttons.jpg
