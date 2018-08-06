@@ -45,6 +45,10 @@ Banner Module displays the details of different Banners made by our colleagues f
         
 Buttons
 ==================
-   
+
+|Bannerbuttons|
+
+
+
 
 .. |Bannermodule| image:: Bannermodule.jpg
