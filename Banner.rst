@@ -61,6 +61,13 @@ Buttons
     * - Id, name, image name Input Box
       - User can carry out easy search by inputting Banner details into the Input Box
 
+Create Banner
+==================
+Users can create new Banner item by clicking on the “Create Banner” button on top of Banner table.
+|Bannercreate|
 
 .. |Bannermodule| image:: Bannermodule.jpg
 .. |Bannerbuttons| image:: Bannerbuttons.JPG
+.. |Bannerbuttons| image:: Bannerbuttons.JPG
+
+
