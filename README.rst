@@ -57,4 +57,4 @@ If you would like to help improve the theme or have more control
 over the theme in case of a fork please read our contributing guide
 `here <https://sphinx-rtd-theme.readthedocs.io/en/latest/contributing.html>`__.
 
-.. |image0| image:: .gitbook/homepage.png
+.. |image0| image:: homepage.jpg
