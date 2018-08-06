@@ -1,10 +1,9 @@
 ************
-Banner 
+Banner Module 
 ************
 
 
-Banner Module
-==================
+
 
 |Bannermodule|
 
