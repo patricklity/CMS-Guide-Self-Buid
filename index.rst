@@ -1,3 +1,8 @@
+**************************
+Read the Docs Sphinx Theme
+**************************
+
+
 .. include:: ../README.rst
 
 .. toctree::
