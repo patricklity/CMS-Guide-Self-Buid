@@ -8,7 +8,10 @@ Banner Module
 
 |Bannermodule|
 
-.. list-table:: Banner Module displays the details of different Banners made by our colleagues for promotion.
+Banner Module displays the details of different Banners made by our colleagues for promotion.
+==================
+
+.. list-table:: Banner Module
     :widths: 10 50
     :header-rows: 1
     :stub-columns: 1
