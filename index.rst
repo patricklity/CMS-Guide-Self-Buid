@@ -5,9 +5,7 @@
    :maxdepth: 2
 
    Banner
-   configuring
-   changelog
-   contributing
+   
 
 
 
