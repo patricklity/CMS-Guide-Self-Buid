@@ -43,7 +43,8 @@ Banner Module displays the details of different Banners made by our colleagues f
     * - Action
       - Edit - Edit Banner Item Information, Delete - Delete Banner Item
         
-
+Buttons
+==================
    
 
 .. |Bannermodule| image:: Bannermodule.jpg
