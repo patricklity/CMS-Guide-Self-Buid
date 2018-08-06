@@ -1,8 +1,3 @@
-**************************
-CMS User Guide
-**************************
-
-
 .. include:: README.rst
 
 .. toctree::
