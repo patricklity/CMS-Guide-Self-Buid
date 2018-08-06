@@ -3,7 +3,7 @@ CMS User Guide
 **************************
 
 
-.. include:: ../README.rst
+.. include:: README.rst
 
 .. toctree::
    :caption: Theme Documentation
