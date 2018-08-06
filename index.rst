@@ -1,5 +1,5 @@
 **************************
-Read the Docs Sphinx Theme
+CMS User Guide
 **************************
 
 
