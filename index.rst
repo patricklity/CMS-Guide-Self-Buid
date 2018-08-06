@@ -1,7 +1,7 @@
 .. include:: README.rst
 
 .. toctree::
-   :caption: Modules
+   :caption: Banner
    :maxdepth: 2
 
    Banner
