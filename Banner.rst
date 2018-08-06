@@ -64,6 +64,7 @@ Buttons
 Create Banner
 ==================
 Users can create new Banner item by clicking on the “Create Banner” button on top of Banner table.
+
 |Bannercreate|
 
 .. |Bannermodule| image:: Bannermodule.jpg
