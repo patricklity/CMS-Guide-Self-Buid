@@ -12,5 +12,6 @@
 
    Category
    Tag
+   Vendor
 
 
