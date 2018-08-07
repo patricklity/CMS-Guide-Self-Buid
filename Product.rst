@@ -63,5 +63,32 @@ Product List Module shows the details of different Products in the Table. User c
       - Edit/ Clone/ Delete Product Item
       
       
+Buttons
+==================
+User can create and search Brand items by clicking on the buttons on top of the Brand table. User can also edit or delete individual Brand items by clicking on the corresponding buttons in the “Action” column.
+
+|Productbuttons|
+
+.. list-table:: Product Module
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+    * - Advanced Search
+      - User can search for Products with different Criterion
+    * - Create Product
+      - User can create new Product Item
+    * - Batch Update
+      - User can select more than one Product and edit details of those selected Products simultaneously
+    * - Tools
+      - Users can export different types of Product Reports
+    * - Other Search
+      - Users can filter Product items with their status
+    * - Product Code/ Barcode/ Brand Name/ Product Name Input Box
+      - Users can carry out quick search by inputting the Product’s Code/ Barcode/ Brand Name/ Name into the Input Box
+   
       
 .. |Productmodule| image:: Productmodule.JPG
+.. |Productbuttons| image:: Productbuttons.JPG
