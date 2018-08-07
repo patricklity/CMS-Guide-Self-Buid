@@ -156,4 +156,4 @@ Users can input the Delivery information of the new Vendor in the “Vendor Deli
 .. |Vendorbuttons| image:: Vendorbuttons.JPG
 .. |Createvendor| image:: Createvendor.jpg
 .. |Createvendorvendorcontact| image:: Createvendorvendorcontact.jpg
-.. |Createvendorvendordelivery| image:: Createvendorvendordelivery.jpg
+.. |Createvendorvendordelivery| image:: createvendorvendordelivery.jpg
