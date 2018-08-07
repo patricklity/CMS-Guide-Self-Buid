@@ -27,7 +27,7 @@ Brand List Module shows the details of different Brands in the Table. User can c
       - The Description of Brand in Chinese
     * - Brand Keyword(Eng)
       - The English Brand Keyword
-       * - Brand Keyword(Chi)
+    * - Brand Keyword(Chi)
       - The Chinese Brand Keyword
     * - Status
       - Active/ Inactive Brand
