@@ -93,3 +93,4 @@ Users can create new Brand by clicking the “Create Brand” button on top of t
 
 .. |Brandmodule| image:: Brandmodule.JPG
 .. |Brandbuttons| image:: Brandbuttons.JPG
+.. |Createbrand| image:: Createbrand.JPG
