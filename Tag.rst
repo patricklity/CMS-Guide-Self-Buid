@@ -131,9 +131,51 @@ Users can click on the “Create Tag” button on top of the Tag table and enter
     * - Action
       - Save - Save Updated Tag Information, Cancel - Cancel Tag Item Editing
 
+Tag Report
+==================
+Users can export the details of different Tags in Excel format by clicking on the “Export Excel” button on top of the Tag table.
+
+|Tagreport|
+
+.. list-table:: Tag Report
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+    * - ID
+      - The Tag ID
+    * - Code 
+      - The Tag Code
+    * - Tag Name(Eng)
+      - The English Tag Name
+    * - Tag Name(Chi)
+      - The Chinese Tag Name
+    * - Tag Description(Eng)
+      - The English Tag Description
+    * - Tag Description(Chi)
+      - The Chinese Tag Description
+    * - Tag Keyword(Eng)
+      - The English Tag Keyword
+    * - Tag Keyword(Chi)
+      - The Chinese Tag Keyword
+    * - Category/Genuine
+      - "Category"/ "Generic" Product
+    * - Category Layer
+      - The corresponding Category if the Tag is classified with "Category".
+    * - Specialty
+      - "Yes" or "No" Tag Specialty
+    * - Visible
+      - Visible/ Invisible Product
+    * - Status
+      - Active/ Inactive Product
+    * - Last Update Date
+      - The Latest Date of Product Update
+    
 
 .. |Tagmodule| image:: Tagmodule.JPG
 .. |Tagbuttons| image:: Tagbuttons.JPG
 .. |Searchtag| image:: Searchtag.jpg
 .. |Createtag| image:: Createtag.JPG
-
+.. |Tagreport| image:: Tagreport.JPG
