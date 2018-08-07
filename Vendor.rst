@@ -187,12 +187,29 @@ Users can input the payment information of the new Vendor in the “Payment Info
       - The Bank of The Vendor
     * - Bank Account No.
       - The Bank Account Number of The Vendor
-   
+      
+Create Vendor - Vendor Reference
+------------------  
+Users can input the vendor reference information (website/media) of the new Vendor in the “Vendor Reference” session.
 
+|Createvendorvendorreference|
+
+.. list-table:: Create Vendor Vendor Reference
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+    * - Website
+      - The Website of Vendor 
+    * - Media/Reference
+      - The Media or Reference of The Vendor
+   
       
 .. |Vendormodule| image:: Vendormodule.JPG
 .. |Vendorbuttons| image:: Vendorbuttons.JPG
 .. |Createvendor| image:: Createvendor.jpg
 .. |Createvendorvendorcontact| image:: Createvendorvendorcontact.jpg
 .. |Createvendorvendordelivery| image:: createvendorvendordelivery.jpg
-.. |Createvendorpaymentinfo| image:: Createvendorpaymentinfo.jpg
+.. |Createvendorvendorreference| image:: Createvendorvendorreference.jpg
