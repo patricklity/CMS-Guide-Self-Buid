@@ -254,6 +254,93 @@ Users can edit the details of The Vendor or the Product Details of The Vendor by
     * - Update Date
       - The Latest Update Date of The Vendor
       
+Vendor Report
+==================      
+Users can export Vendor details in Excel format by clicking on the “Export Excel” buttons on top of the Vendor List table.
+
+|Vendorreport|
+
+.. list-table:: Edit Vendor Page
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+    * - ID
+      - The Vendor ID
+    * - Vendor Code
+      - The Vendor Code
+    * - Vendor Name
+      - The Vander Name
+    * - Supplier Name Chinese
+      - The Chinese Vendor Name
+    * - PIC
+      - The Person in Charge of The Vendor
+    * - Active/Inactive
+      - Active/ Inactive Vendor
+    * - Day of Replenishment
+      - The Weekday of Replenishing Vendor Products
+    * - Default Day of Replenishment
+      - The Default Weekday of Replenishing Vendor Products
+    * - Grouping
+      - The day vendor deliver goods to warehouse 
+    * - Contact Person
+      - The Name of Vendor Contact Person
+    * - Tel
+      - The Telephone Number of Vendor
+    * - Fax
+      - The Fax of The Vendor
+    * - Email
+      - The Email Address of The Vendor
+    * - Address
+      - The Address of The Vendor
+    * - Opening Hour
+      - The Opening Hour of The Vendor
+    * - MOQ
+      - The Minimum Order Quantity of Vendor Product
+    * - MOV
+      - The Minimum Order Value of Vendor Product
+    * - Special Offers
+      - The Special Offers of The Vendor
+    * - Shelf Life
+      - The Shelf Life of Product from The Vendor
+    * - Lead Time
+      - The Lead Time of Product from The Vendor
+    * - Cut-off Day
+      - Cut off day before delivery for this vendoy, such as T-1 and T means today
+    * - Cut-off Time
+      - The Daily Cut-Off Time of Order to The Vendor
+     * - Delivery(Y/N)
+      - Vendor will deliver goods to warehouse or not
+    * - Delivery Schedule
+      - The Day of Vendor Delivery of Product
+    * - Order UOM
+      - The Unit of Measurement of Products from The Vendor
+    * - Discount rate
+      - The Vendor Discount Rate
+    * - ZTORE在供應商系統的客戶號碼
+      - The Code of Ztore in The Vendor System
+      * - Payment Terms
+      - The Payment Terms of Order from The Vendor
+    * - Cheque
+      - The Cheque Header
+    * - Bank
+      - The Bank Name of Bank Account
+    * - Bank Account No.
+      - The Bank Account Number of The Vendor
+    * - Credit Days
+      - payment deadline after delivery
+     * - Website/ FB
+      - The Website or Facebook Link of The Vendor
+    * - Media/Reference
+      - The Media or Reference Website Link of The Vendor
+    * - Promotion
+      - The Promotion of The Vendor
+    * - Remarks
+      - The Additional Information of The Vendor
+    
+
 .. |Vendormodule| image:: Vendormodule.JPG
 .. |Vendorbuttons| image:: Vendorbuttons.JPG
 .. |Createvendor| image:: Createvendor.jpg
@@ -262,3 +349,4 @@ Users can edit the details of The Vendor or the Product Details of The Vendor by
 .. |Createvendorpaymentinfo| image:: Createvendorpaymentinfo.jpg
 .. |Createvendorvendorreference| image:: Createvendorvendorreference.jpg
 .. |Editvendor| image:: Editvendor.JPG
+.. |Vendorreport| image:: Vendorreport.JPG
