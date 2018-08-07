@@ -45,9 +45,22 @@ Tag List Module displays the detailed information of all the Tags. Users can sea
       - Edit - Edit Tag Item Information, Delete - Delete Tag Item, Save - Save Updated Tag Information, Cancel - Cancel Tag Item Editing
 
        
+Buttons
+==================
+Users can search, create and export Tags report by clicking on the buttons on top of the table. They can also input Tag ID, name and code in the input box for quick search of corresponding Tag.
 
+|Tagbuttons|
 
-
-
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+    * - Search Tag
+      - Users can search targeted Tags with different criterion
+    * - Create Tag
+      - Users can create new Tags
+    * - Export Excel
+      - Users can export Tag Reports
+    * - Id, name, code Input Box
+      - Users can input Tag ID, name or Code into the input box for quick search.
 
 .. |Tagmodule| image:: Tagmodule.JPG
+.. |Tagbuttons| image:: Tagbuttons.JPG
