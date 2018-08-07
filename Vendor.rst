@@ -205,7 +205,54 @@ Users can input the vendor reference information (website/media) of the new Vend
       - The Website of Vendor 
     * - Media/Reference
       - The Media or Reference of The Vendor
-   
+
+Edit Vendors
+==================
+Users can edit the details of The Vendor or the Product Details of The Vendor by clicking on the corresponding “Edit” or “Edit Products” buttons in the “Action” column of The Vendor Item. 
+
+|Editvendor|
+
+.. list-table:: Edit Vendor Page
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+    * - ID
+      - The Vendor ID
+    * - Vendor Code
+      - The Vendor Code
+    * - Vendor Name(Eng)
+      - The English Name of Vendor
+    * - Vendor Name(Chi)
+      - The Chinese Name of Vendor
+    * - Short Form
+      - The Simplified Name of the Vendor
+    * - PIC
+      - The Person in Charge for the Vendor
+    * - Status
+      - Active/ Inactive Vendor
+    * - Special Offers
+      - Remarks about Vendor offers some special offers
+    * - MOQ
+      - The min order qty about purchase 
+    * - MOV
+      - The min order value about purchase
+    * - Shelf Life
+      - The shelf life for this vendor' product
+    * - Cut-off Day
+      - Cut off day before delivery for this vendor, such as T-1 and T means today
+    * - Cut-off Time
+      - Cut off time before delivery for this vendor
+    * - Lead Time
+      - Devolve time after purchase
+    * - Remarks
+      - The Additional Information of The Vendor
+    * - Created Date
+      - The Date of Creating The Vendor Item
+    * - Update Date
+      - The Latest Update Date of The Vendor
       
 .. |Vendormodule| image:: Vendormodule.JPG
 .. |Vendorbuttons| image:: Vendorbuttons.JPG
@@ -214,3 +261,4 @@ Users can input the vendor reference information (website/media) of the new Vend
 .. |Createvendorvendordelivery| image:: createvendorvendordelivery.jpg
 .. |Createvendorpaymentinfo| image:: Createvendorpaymentinfo.jpg
 .. |Createvendorvendorreference| image:: Createvendorvendorreference.jpg
+.. |Editvendor| image:: Editvendor.jpg
