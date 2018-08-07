@@ -90,7 +90,29 @@ Users can create new Brand by clicking the “Create Brand” button on top of t
     * - Action
       - Save - Save New Brand Item Information, Cancel - Cancel Creating New Brand Item
 
+Other Search
+==================
+Users can filter Brand items easily by their Brand status when click on the “Other Search” items on top of the Brand table.
+
+|Brandothersearch|
+
+.. list-table:: Create Brand Page
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+    * - Get all
+      - Show All Brand Items
+    * - Get active brand
+      - Show Brand Items with "Active" Status
+    * - Get non-active brand
+      - Show Brand Items with "not active" Status
+   
+
 
 .. |Brandmodule| image:: Brandmodule.JPG
 .. |Brandbuttons| image:: Brandbuttons.JPG
 .. |Createbrand| image:: Createbrand.JPG
+.. |Brandothersearch| image:: Brandothersearch.JPG
