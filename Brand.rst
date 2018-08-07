@@ -57,6 +57,39 @@ Users can create and search Brand items by clicking on the buttons on top of the
       - Users can filter Brands quickly by their Brand status
     * - Id, name Input Box
       - Users can do quick search by inputting Brand ID or Name into the input box
+      
+Create Brand
+==================
+Users can create new Brand by clicking the “Create Brand” button on top of the Brand table and input Brand details into the popup window.
+
+|Create Brand|
+
+.. list-table:: Create Brand Page
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+    * - Brand Name(Eng)
+      - The Name of Brand in English
+    * - Brand Name(TC)
+      - The Name of Brand in Traditional Chinese
+    * - Brand Name(SC)
+      - The Name of Brand in Simplified Chinese
+    * - Brand Description(Eng)
+      - The Description of Brand in English
+    * - Bran Description(Chi)
+      - The Description of Brand in Chinese
+    * - Brand Keyword(Eng)
+      - The English Brand Keyword
+    * - Brand Keyword(Chi)
+      - The Chinese Brand Keyword
+    * - Status
+      - Active/ Inactive Brand
+    * - Action
+      - Save - Save New Brand Item Information, Cancel - Cancel Creating New Brand Item
+
 
 .. |Brandmodule| image:: Brandmodule.JPG
 .. |Brandbuttons| image:: Brandbuttons.JPG
