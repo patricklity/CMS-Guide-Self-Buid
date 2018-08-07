@@ -31,6 +31,27 @@ Vendor List displays the details of different Vendors. Users can create vendors 
       - Edit - Edit Vendor Item Information. Edit Products - Edit Products Information of The Vendor, Delete - Delete Vendor Item
 
 
+Buttons
+==================
+Users can create new vendor items and export vendor reports by clicking on the buttons on top of the Vendor List table. You can also input vendor ID, Code or Name for quick search in the input box.
+
+|Vendorbuttons|
+
+.. list-table:: Vendor List Module Buttons
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+    * - Create Vendor
+      - User can create new vendor 
+    * - Export Excel
+      - User can export vendor details in Excel format
+    * - Id, code, name Input Box
+      - User can carry out quick vendor search by inputting Vendor ID, Code and Name into the Input Box
+    
 
 
 .. |Vendormodule| image:: Vendormodule.JPG
+.. |Vendorbuttons| image:: Vendorbuttons.JPG
