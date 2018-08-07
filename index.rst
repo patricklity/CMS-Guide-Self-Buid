@@ -13,5 +13,6 @@
    Category
    Tag
    Vendor
+   Brand
 
 
