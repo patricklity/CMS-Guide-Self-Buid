@@ -67,5 +67,32 @@ Users can search, create and export Tags report by clicking on the buttons on to
     * - Id, name, code Input Box
       - Users can input Tag ID, name or Code into the input box for quick search.
 
+Search Tags
+==================
+Users can click on the “Search Tag” button on top of the Tag table and enter different criterion in the popup window for Tag searching
+
+|Searchtag|
+
+.. list-table:: Search Tag
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+    * - Category/Generic
+      - Category or Generic Tag
+    * - Category Layer
+      - The corresponding Category if the Tag is classified with "Category".
+    * - Specialty
+      - "Yes" or "No" Specialty Tag
+    * - Visible
+      - Visible or Invisible Tag
+    * - Status
+      - Active or Inactive Tag
+
 .. |Tagmodule| image:: Tagmodule.JPG
 .. |Tagbuttons| image:: Tagbuttons.JPG
+.. |Searchtag| image:: Searchtag.JPG
+
+
