@@ -99,11 +99,35 @@ Users can create new Vendor by clicking the “Create Vendor” button on top of
       - The Date of Creating The Vendor Item
     * - Update Date
       - The Latest Update Date of The Vendor
-    
+
+Create Vendor - Vendor Contact
+------------------
+Users can input the contact details of the new Vendor in the “Vendor Contact” session.
+
+|Createvendorvendorcontact|
       
-      
+.. list-table:: Create Vendor Vendor Contact
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+    * - Contact Person
+      - The Name of Contact Person for The Vendor
+    * - Tel
+      - The Telephone Number of The Vendor
+    * - Fax
+      - The Fax of The Vendor
+    * - Email
+      - The Email of The Vendor
+    * - Address
+      - The Address of The Vendor
+    * - Opening Hour
+      - The Opening Hours of The Vendor
       
       
 .. |Vendormodule| image:: Vendormodule.JPG
 .. |Vendorbuttons| image:: Vendorbuttons.JPG
-.. |Createvendor| image:: Createvendor.jpg
+.. |Createvendor| image:: Createvendor.jpg\
+.. |Createvendorvendorcontact| image:: Createvendorvendorcontact.jpg
