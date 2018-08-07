@@ -129,5 +129,5 @@ Users can input the contact details of the new Vendor in the â€œVendor Contactâ€
       
 .. |Vendormodule| image:: Vendormodule.JPG
 .. |Vendorbuttons| image:: Vendorbuttons.JPG
-.. |Createvendor| image:: Createvendor.jpg\
+.. |Createvendor| image:: Createvendor.jpg
 .. |Createvendorvendorcontact| image:: Createvendorvendorcontact.jpg
