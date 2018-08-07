@@ -106,4 +106,4 @@ Users can create new Vendor by clicking the “Create Vendor” button on top of
       
 .. |Vendormodule| image:: Vendormodule.JPG
 .. |Vendorbuttons| image:: Vendorbuttons.JPG
-.. |Createvendor| image:: Createvendor.Jjpg
+.. |Createvendor| image:: Createvendor.jpg
