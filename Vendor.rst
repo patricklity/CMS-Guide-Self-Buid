@@ -311,7 +311,7 @@ Users can export Vendor details in Excel format by clicking on the “Export Exc
       - Cut off day before delivery for this vendoy, such as T-1 and T means today
     * - Cut-off Time
       - The Daily Cut-Off Time of Order to The Vendor
-     * - Delivery(Y/N)
+    * - Delivery(Y/N)
       - Vendor will deliver goods to warehouse or not
     * - Delivery Schedule
       - The Day of Vendor Delivery of Product
@@ -321,7 +321,7 @@ Users can export Vendor details in Excel format by clicking on the “Export Exc
       - The Vendor Discount Rate
     * - ZTORE在供應商系統的客戶號碼
       - The Code of Ztore in The Vendor System
-      * - Payment Terms
+    * - Payment Terms
       - The Payment Terms of Order from The Vendor
     * - Cheque
       - The Cheque Header
@@ -331,7 +331,7 @@ Users can export Vendor details in Excel format by clicking on the “Export Exc
       - The Bank Account Number of The Vendor
     * - Credit Days
       - payment deadline after delivery
-     * - Website/ FB
+    * - Website/ FB
       - The Website or Facebook Link of The Vendor
     * - Media/Reference
       - The Media or Reference Website Link of The Vendor
