@@ -261,4 +261,4 @@ Users can edit the details of The Vendor or the Product Details of The Vendor by
 .. |Createvendorvendordelivery| image:: createvendorvendordelivery.jpg
 .. |Createvendorpaymentinfo| image:: Createvendorpaymentinfo.jpg
 .. |Createvendorvendorreference| image:: Createvendorvendorreference.jpg
-.. |Editvendor| image:: Editvendor.jpg
+.. |Editvendor| image:: Editvendor.JPG
