@@ -212,4 +212,5 @@ Users can input the vendor reference information (website/media) of the new Vend
 .. |Createvendor| image:: Createvendor.jpg
 .. |Createvendorvendorcontact| image:: Createvendorvendorcontact.jpg
 .. |Createvendorvendordelivery| image:: createvendorvendordelivery.jpg
+.. |Createvendorpaymentinfo| image:: createvendorpaymentinfo.jpg
 .. |Createvendorvendorreference| image:: Createvendorvendorreference.jpg
