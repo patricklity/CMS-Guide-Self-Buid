@@ -14,5 +14,6 @@
    Tag
    Vendor
    Brand
+   Product
 
 
