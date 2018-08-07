@@ -39,9 +39,9 @@ Tag List Module displays the detailed information of all the Tags. Users can sea
       - Visible/ Invisible Tag
     * - Status
       - Active/ Inactive Tag
-     * - Last Update Date
+    * - Last Update Date
       - The Date of Latest Tag Update
-       * - Action
+    * - Action
       - Edit - Edit Tag Item Information, Delete - Delete Tag Item, Save - Save Updated Tag Information, Cancel - Cancel Tag Item Editing
 
        
