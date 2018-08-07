@@ -96,6 +96,7 @@ Users can create new Banner item by clicking on the “Create Banner” button o
 
 Create Banner - Home Banner
 ------------------
+Users can enter the details of Banner according to different Banner Types. For Home Banner, users can select the “Home Banner” session in the lower part of the Create Banner popup window.
 
 |Createbannerhomebanner|
 
@@ -118,6 +119,10 @@ Create Banner - Home Banner
       - Upload The English Home Banner Image Here
     * - Home Banner Image Upload(Chi)
       - Upload The Chinese Home Banner Image Here
+
+Create Banner - Category Banner
+------------------
+
 
 
 .. |Bannermodule| image:: Bannermodule.jpg
