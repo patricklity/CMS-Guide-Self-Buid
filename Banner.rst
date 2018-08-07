@@ -1,13 +1,12 @@
 ************
 Banner Module 
 ************
-
+Banner Module displays the details of different Banners made by our colleagues for promotion.
 
 
 
 |Bannermodule|
 
-Banner Module displays the details of different Banners made by our colleagues for promotion.
 
 
 .. list-table:: Banner Module
@@ -44,6 +43,7 @@ Banner Module displays the details of different Banners made by our colleagues f
         
 Buttons
 ==================
+Users can Create and Search for Banner by clicking on the buttons on top of the Banner table.
 
 |Bannerbuttons|
 
