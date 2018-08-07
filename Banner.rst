@@ -161,7 +161,7 @@ Users can enter the details of Banner according to different Banner Types. For C
 
 |Createbannercheckoutbanner|
 
-.. list-table:: Create Category Banner
+.. list-table:: Create Checkout Banner
     :widths: 10 50
     :header-rows: 1
     :stub-columns: 1
