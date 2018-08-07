@@ -260,7 +260,7 @@ Users can export Vendor details in Excel format by clicking on the “Export Exc
 
 |Vendorreport|
 
-.. list-table:: Edit Vendor Page
+.. list-table:: Vendor Report Column Headings
     :widths: 10 50
     :header-rows: 1
     :stub-columns: 1
