@@ -67,7 +67,7 @@ Users can create new Banner item by clicking on the “Create Banner” button o
 
 |Bannercreate|
 
-.. list-table:: Banner Module Buttons
+.. list-table:: Create Banner
     :widths: 10 50
     :header-rows: 1
     :stub-columns: 1
@@ -98,3 +98,26 @@ Users can create new Banner item by clicking on the “Create Banner” button o
 
 Create Banner - Home Banner
 ------------------
+
+|Createbannerhomebanner|
+
+.. list-table:: Create Home Banner
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+    * - Link(Eng.)
+      - The Link of English Home Banner 
+    * - Link(Chi)
+      - The Link of Chinese Home Banner 
+    * - Home Banner Link Type
+      - The home banner link is internal website or external website.Internal website: Browser will navigate to the ztore page using same browser tag (example link: https://www.ztore.com/tc/promotion/1003014)External website: Browser will open a new browser tag to display the external website (example link: https://hk.shop.com/?tkr=s16776)
+    * - Sort Order
+      - The Relative Importance of Home Banner 
+    * - Home Banner Image Upload(Eng.)
+      - Upload The English Home Banner Image Here
+    * - Home Banner Image Upload(Chi)
+      - Upload The Chinese Home Banner Image Here
+
