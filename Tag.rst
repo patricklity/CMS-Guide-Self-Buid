@@ -91,8 +91,49 @@ Users can click on the “Search Tag” button on top of the Tag table and enter
     * - Status
       - Active or Inactive Tag
 
+Create Tags
+==================
+Users can click on the “Create Tag” button on top of the Tag table and enter different criterion in the popup window for the new Tag details.
+
+|Createtag|
+
+.. list-table:: Create Tag
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+    * - Tag Name(Eng)
+      - The English Name of New Tag
+    * - Tag Name(Chi) 
+      - The Chinese Name of New Tag
+    * - Tag Description(Eng)
+      - The English Description of New Tag
+    * - Tag Description(Chi)
+      - The Chinese Description of New Tag
+    * - Tag Keyword(Eng)
+      - The English Keyword of New Tag
+    * - Tag Keyword(Chi)
+      - The Chinese Keyword of New Tag
+    * - Category/Generic
+      - Category or Generic New Tag
+    * - Category(Layer)
+      - The corresponding Category if the Tag is classified with "Category".
+    * - Specialty
+      - "Yes" or "No" Tag Specialty
+    * - Visible
+      - Visible/ Invisible Tag
+    * - Status
+      - Active/ Inactive Tag
+    * - Last Update Date
+      - The Latest Update Date for The Tag
+    * - Action
+      - Save - Save Updated Tag Information, Cancel - Cancel Tag Item Editing
+
+
 .. |Tagmodule| image:: Tagmodule.JPG
 .. |Tagbuttons| image:: Tagbuttons.JPG
 .. |Searchtag| image:: Searchtag.jpg
-
+.. |Createtag| image:: Createtag.jpg
 
