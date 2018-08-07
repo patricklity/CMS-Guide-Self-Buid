@@ -125,9 +125,35 @@ Users can input the contact details of the new Vendor in the “Vendor Contact�
       - The Address of The Vendor
     * - Opening Hour
       - The Opening Hours of The Vendor
-      
+
+Create Vendor - Vendor Delivery
+------------------
+Users can input the Delivery information of the new Vendor in the “Vendor Delivery” session.
+
+|Createvendorvendordelivery|
+
+.. list-table:: Create Vendor Vendor Delivery
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+    * - Replenishment Day
+      - The Weekday of Replenishment from The Vendor
+    * - Default Replenishment Day
+      - The Default Vendor Replenishment Weekday
+    * - Grouping Day
+      - The day vendor delivers goods to warehouse
+    * - Delivery Status
+      - "Yes" or "No"
+    * - Order UOM
+      - The units of measurement for this vendor
+    * - Delivery Schedule
+      - The Day of Vendor Delivery of Product
       
 .. |Vendormodule| image:: Vendormodule.JPG
 .. |Vendorbuttons| image:: Vendorbuttons.JPG
 .. |Createvendor| image:: Createvendor.jpg
 .. |Createvendorvendorcontact| image:: Createvendorvendorcontact.jpg
+.. |Createvendorvendordelivery| image:: Createvendorvendordelivery.jpg
