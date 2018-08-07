@@ -35,5 +35,28 @@ Brand List Module shows the details of different Brands in the Table. User can c
       - The Latest Update Date of The Brand
     * - Action
       - Edit - Edit Brand Item Information, Delete - Delete Brand Item
+      
+Buttons
+==================
+Users can create and search Brand items by clicking on the buttons on top of the Brand table. You can also export Brand details in Excel format with those buttons.
+
+|Brandbuttons|
+
+.. list-table:: Brand Module Buttons
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+    * - Create Brand
+      - User can create new Brand by inputting Brand details into the Popup window.
+    * - Export Excel
+      - Users can export Brand details in Excel format
+    * - Other Search
+      - Users can filter Brands quickly by their Brand status
+    * - Id, name Input Box
+      - Users can do quick search by inputting Brand ID or Name into the input box
 
 .. |Brandmodule| image:: Brandmodule.JPG
+.. |Brandbuttons| image:: Brandbuttons.JPG
