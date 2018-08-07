@@ -51,6 +51,11 @@ Users can search, create and export Tags report by clicking on the buttons on to
 
 |Tagbuttons|
 
+.. list-table:: Tag List Module Buttons
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+
     * - FIELD NAME
       - FIELD DESCRIPTION
     * - Search Tag
