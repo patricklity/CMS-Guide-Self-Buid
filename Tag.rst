@@ -135,5 +135,5 @@ Users can click on the “Create Tag” button on top of the Tag table and enter
 .. |Tagmodule| image:: Tagmodule.JPG
 .. |Tagbuttons| image:: Tagbuttons.JPG
 .. |Searchtag| image:: Searchtag.jpg
-.. |Createtag| image:: Createtag.jpg
+.. |Createtag| image:: Createtag.JPG
 
