@@ -231,4 +231,4 @@ User can filter the Banner by their Status when clicking on the â€œOther Searchâ
 .. |Createbannercategorybanner| image:: Createbannercategorybanner.jpg
 .. |Createbannercheckoutbanner| image:: Createbannercheckoutbanner.jpg
 .. |Createbannerorderemailbanner| image:: Createbannerorderemailbanner.jpg
-.. |Bannerothersearch| image:: Bannerothersearch.jpg
+.. |Bannerothersearch| image:: Bannerothersearch.JPG
