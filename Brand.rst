@@ -96,7 +96,7 @@ Users can filter Brand items easily by their Brand status when click on the “O
 
 |Brandothersearch|
 
-.. list-table:: Create Brand Page
+.. list-table:: Brand Other Search Page
     :widths: 10 50
     :header-rows: 1
     :stub-columns: 1
