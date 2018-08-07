@@ -92,9 +92,7 @@ Users can create new Banner item by clicking on the “Create Banner” button o
       - Active or Inactive Banner
       
       
-.. |Bannermodule| image:: Bannermodule.jpg
-.. |Bannerbuttons| image:: Bannerbuttons.JPG
-.. |Bannercreate| image:: Bannercreate.jpg
+
 
 Create Banner - Home Banner
 ------------------
@@ -121,3 +119,8 @@ Create Banner - Home Banner
     * - Home Banner Image Upload(Chi)
       - Upload The Chinese Home Banner Image Here
 
+
+.. |Bannermodule| image:: Bannermodule.jpg
+.. |Bannerbuttons| image:: Bannerbuttons.JPG
+.. |Bannercreate| image:: Bannercreate.jpg
+.. |Createbannerhomebanner| image:: Createbannerhomebanner.jpg
