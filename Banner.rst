@@ -154,6 +154,32 @@ Users can enter the details of Banner according to different Banner Types. For C
       - The Link of English Category Banner Image 2
     * - Category Banner Link 2 (Chi)
       - The Link of Chinese Category Banner Image 2
+ 
+Create Banner - Checkout Banner
+------------------
+Users can enter the details of Banner according to different Banner Types. For Checkout Banner, users can select the “Checkout Banner” session in the lower part of the Create Banner popup window.
+
+|Createbannercheckoutbanner|
+
+.. list-table:: Create Category Banner
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+    * - Sort Order
+      - The Relative Importance of Checkout Banner
+    * - Page Url
+      - The Link of Checkout Banner 
+    * - Checkout Banner Link(Eng)
+      - The Link of English Checkout Banner 
+    * - Checkout Banner Link(Chi)
+      - The Link of Chinese Checkout Banner 
+    * - Checkout Banner Image Upload(Eng)
+      - Upload The English Checkout Banner Image Here
+    * - Checkout Banner Image Upload(Chi)
+      - Upload The Chinese Checkout Banner Image Here
     
       
 .. |Bannermodule| image:: Bannermodule.jpg
@@ -161,3 +187,4 @@ Users can enter the details of Banner according to different Banner Types. For C
 .. |Bannercreate| image:: Bannercreate.jpg
 .. |Createbannerhomebanner| image:: Createbannerhomebanner.jpg
 .. |Createbannercategorybanner| image:: Createbannercategorybanner.jpg
+.. |Createbannercheckoutbanner| image:: Createbannercheckoutbanner.jpg
