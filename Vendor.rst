@@ -52,6 +52,58 @@ Users can create new vendor items and export vendor reports by clicking on the b
       - User can carry out quick vendor search by inputting Vendor ID, Code and Name into the Input Box
     
 
+Create Vendors
+==================
+Users can create new Vendor by clicking the “Create Vendor” button on top of The Vendor List table and enter different vendor details into the popup window.
 
+|Createvendor|
+
+.. list-table:: Vendor List Module Buttons
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+    * - ID
+      - The Vendor ID
+    * - Vendor Code
+      - The Vendor Code
+    * - Vendor Name(Eng)
+      - The English Name of Vendor
+    * - Vendor Name(Chi)
+      - The Chinese Name of Vendor
+    * - Short Form
+      - The Simplified Name of the Vendor
+    * - PIC
+      - The Person in Charge for the Vendor
+    * - Status
+      - Active/ Inactive Vendor
+    * - Special Offers
+      - Remarks about Vendor offers some special offers
+    * - MOQ
+      - The min order qty about purchase
+    * - MOV
+      - The min order value about purchase
+    * - Shelf Life
+      - The shelf life for this vendor' product
+    * - Cut-off Day
+      - Cut off day before delivery for this vendor, such as T-1 and T means today
+    * - Cut-off Time
+      - Cut off time before delivery for this vendor
+    * - Lead Time
+      - Delivery time after purchase
+    * - Remarks
+      - The Additional Information of The Vendor
+    * - Created Date
+      - The Date of Creating The Vendor Item
+    * - Update Date
+      - The Latest Update Date of The Vendor
+    
+      
+      
+      
+      
 .. |Vendormodule| image:: Vendormodule.JPG
 .. |Vendorbuttons| image:: Vendorbuttons.JPG
+.. |Createvendor| image:: Createvendor.Jjpg
