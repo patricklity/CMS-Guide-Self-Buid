@@ -201,7 +201,29 @@ Users can enter the details of Banner according to different Banner Types. For O
     * - Order Email Banner Status
       - Active or Inactive Order Email Banner
     
+Other Search
+==================
+User can filter the Banner by their Status when clicking on the “Other Search” button on top of the Banner Table
 
+|Bannerothersearch|
+
+.. list-table:: Other Search
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+    * - Get Active Banner
+      - Display Banner with “Active” Status 
+    * - Get All
+      - Display All Banner 
+    * - Get Home Banner
+      - Display all Home Banner Category Banner
+    * - Get Active Home Banner 
+      - Display all Home Banner Category with “Active” Status Banner.
+      
+      
 .. |Bannermodule| image:: Bannermodule.jpg
 .. |Bannerbuttons| image:: Bannerbuttons.JPG
 .. |Bannercreate| image:: Bannercreate.jpg
@@ -209,3 +231,4 @@ Users can enter the details of Banner according to different Banner Types. For O
 .. |Createbannercategorybanner| image:: Createbannercategorybanner.jpg
 .. |Createbannercheckoutbanner| image:: Createbannercheckoutbanner.jpg
 .. |Createbannerorderemailbanner| image:: Createbannerorderemailbanner.jpg
+.. |Bannerothersearch| image:: Bannerothersearch.jpg
