@@ -110,9 +110,42 @@ Users can filter Brand items easily by their Brand status when click on the “O
     * - Get non-active brand
       - Show Brand Items with "not active" Status
    
+Brand Report
+==================
+Users can export Brand details in Excel format by clicking on the “Export Excel” button on top of the Brand table.
 
+|Brandreport|
 
+.. list-table:: Brand Other Search Page
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+    * - ID
+      - The Brand ID
+    * - Brand Name(Eng)
+      - The English Brand Name
+    * - Brand Name(Chi)
+      - The Chinese Brand Name
+    * - Brand Description(Eng)
+      - The English Brand Description
+    * - Brand Description(Chi)
+      - The Chinese Brand Description
+    * - Brand Keyword(Eng)
+      - The English Brand Keyword
+    * - Brand Keyword(Chi)
+      - The Chinese Brand Keyword
+    * - Last Update Date
+      - The Latest Update Date of The Brand
+    * - Status
+      - Active/Inactive Brand
+      
+      
+      
 .. |Brandmodule| image:: Brandmodule.JPG
 .. |Brandbuttons| image:: Brandbuttons.JPG
 .. |Createbrand| image:: Createbrand.JPG
 .. |Brandothersearch| image:: Brandothersearch.JPG
+.. |Brandreport| image:: Brandreport.JPG
