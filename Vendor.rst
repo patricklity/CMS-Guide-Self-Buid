@@ -152,8 +152,47 @@ Users can input the Delivery information of the new Vendor in the “Vendor Deli
     * - Delivery Schedule
       - The Day of Vendor Delivery of Product
       
+Create Vendor - Payment Info
+------------------
+Users can input the payment information of the new Vendor in the “Payment Info” session.
+
+|Createvendorpaymentinfo|
+
+.. list-table:: Create Vendor Payment Info
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+    * - Accounting Email
+      - The Email of Vendor Accounting Department
+    * - Accounting Person
+      - The Accounting Department Contact Person of The Vendor
+    * - Is Consignment
+      - The fields states this is a consignment vendor or not. Consignment vendor seems that vendor will provide the inventory firstly, Ztore earn a ratio of total sales and handle payment to the vendor after sales
+    * - Consignment Rate(%)
+      - the ratio that Ztore can earn from this vendor' sales
+    * - Discount Rate
+      - The Discount Rate of Payment of The Vendor
+    * - Ztore Customer Number of Supplier
+      - The customer number of ztore in supplier records
+    * - Payment Terms
+      - The Payment Terms of The Vendor
+    * - Credit Days
+      - payment deadline after delivery
+    * - Cheque 
+      - The receiver of that cheque, it usually is the company name
+    * - Bank
+      - The Bank of The Vendor
+    * - Bank Account No.
+      - The Bank Account Number of The Vendor
+   
+
+      
 .. |Vendormodule| image:: Vendormodule.JPG
 .. |Vendorbuttons| image:: Vendorbuttons.JPG
 .. |Createvendor| image:: Createvendor.jpg
 .. |Createvendorvendorcontact| image:: Createvendorvendorcontact.jpg
 .. |Createvendorvendordelivery| image:: createvendorvendordelivery.jpg
+.. |Createvendorpaymentinfo| image:: createvendorpaymentinfo.jpg
