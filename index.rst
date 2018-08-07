@@ -6,6 +6,10 @@
 
    Banner
    
+.. toctree::
+   :caption: Product
+   :maxdepth: 2
 
+   Category
 
 
