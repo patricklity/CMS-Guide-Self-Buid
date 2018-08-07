@@ -93,6 +93,6 @@ Users can click on the “Search Tag” button on top of the Tag table and enter
 
 .. |Tagmodule| image:: Tagmodule.JPG
 .. |Tagbuttons| image:: Tagbuttons.JPG
-.. |Searchtag| image:: Searchtag.JPG
+.. |Searchtag| image:: Searchtag.jpg
 
 
