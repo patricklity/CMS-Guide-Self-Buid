@@ -116,7 +116,7 @@ Users can export Brand details in Excel format by clicking on the “Export Exce
 
 |Brandreport|
 
-.. list-table:: Brand Other Search Page
+.. list-table:: Brand Other Column Headings
     :widths: 10 50
     :header-rows: 1
     :stub-columns: 1
