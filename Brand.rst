@@ -62,7 +62,7 @@ Create Brand
 ==================
 Users can create new Brand by clicking the “Create Brand” button on top of the Brand table and input Brand details into the popup window.
 
-|Create Brand|
+|Createbrand|
 
 .. list-table:: Create Brand Page
     :widths: 10 50
