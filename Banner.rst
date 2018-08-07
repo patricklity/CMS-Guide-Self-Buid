@@ -96,4 +96,5 @@ Users can create new Banner item by clicking on the “Create Banner” button o
 .. |Bannerbuttons| image:: Bannerbuttons.JPG
 .. |Bannercreate| image:: Bannercreate.jpg
 
-
+Create Banner - Home Banner
+------------------
