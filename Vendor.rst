@@ -195,4 +195,4 @@ Users can input the payment information of the new Vendor in the “Payment Info
 .. |Createvendor| image:: Createvendor.jpg
 .. |Createvendorvendorcontact| image:: Createvendorvendorcontact.jpg
 .. |Createvendorvendordelivery| image:: createvendorvendordelivery.jpg
-.. |Createvendorpaymentinfo| image:: createvendorpaymentinfo.jpg
+.. |Createvendorpaymentinfo| image:: Createvendorpaymentinfo.jpg
