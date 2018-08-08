@@ -98,10 +98,11 @@ Users can search for Product items by clicking on the “Advanced Search” butt
 .. list-table:: Product Advanced Search
     :widths: 10 50 50
     :header-rows: 1
-    :stub-columns: 1
+    :stub-columns: 2
 
     * - FIELD NAME
       - FIELD DESCRIPTION
+      - Calculations
     * - Product Code
       - The Product Code
     * - Related Vendor
