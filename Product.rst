@@ -818,7 +818,7 @@ Users can export the stock keeping details of different Products by clicking on 
       - The Currency of Product Value	
     * - ItemValue
       - The Product Value
-        * - MinInventoryWarning
+    * - MinInventoryWarning
       - The Minimum Inventory Amount for Warning
     * - Relable
       - Need to handle relabel or not
