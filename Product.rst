@@ -730,8 +730,130 @@ Users can export the merchandizing details of different Products by clicking on 
     * - SOH(H)
       - The Accumulated Product Sales Quantity
    
-      
 
+SKU Master Report
+================== 
+Users can export the stock keeping details of different Products by clicking on the “Export Item Master for YF” option from the “Tools” button dropdown list on top of the Products table.
+
+|SKUMasterreport|
+ 
+.. list-table:: SKU Master Report Column Headings 
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+    
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+    * - ItemNo
+      - The Product ID
+    * - ItemDescription
+      - The English Description of Th Product
+    * - ItemDescriptionChi
+      - The Chinese Description of The Product
+    * - BarCode
+      - The Product Barcode
+    * - Barcode2
+      - The Product Barcode
+    * - Barcode3
+      - The Product Barcode
+    * - DefaultUOM
+      - The Default Measurement Unit of The Product
+    * - GrossWeight
+      - The Gross Weight of The Product
+    * - NetWeight
+      - The Net Weight of The Product
+    * - Length
+      - The Length of The Product
+    * - Width
+      - The Width of The Product
+    * - Height
+      - The Height of The Product
+    * - Cubage
+      - represent product volume = length * width * height (all in meter)
+    * - ColorCode
+      - The Color-code of The Product
+    * - SizeCode
+      - The Size Code of The Product
+    * - ItemCategory
+      - The Product Category
+    * - ItemCategoryChi
+      - The Chinese Product Category
+    * - ItemBrand
+      - The Product Brand Name
+    * - ItemBrandChi
+      - The Chinese Product Brand Name
+    * - ProductGroup
+      - The Product Group of The Product Item
+    * - VendorCode
+      - The Vendor Code
+    * - QtyForPallet
+      - Capability for one pallet, use to estimate space during inbound
+    * - PutawayStrategy
+      - Rules for putaway, default is 1 item 1 location
+    * - PickingStrategy
+      - Rules for picking:FEFO, First Expired First Out, FIFO, First In First Out, FILO, First In Last Out
+    * - PickByBatchNo
+      - Use to control that this product need to pick by batch or not. If true, warehouse pickers need to pick items by given batch no for all sales orders
+    * - PickByGoodsStatus
+      - Control picking item status, but system have no control on this aspect
+    * - MinShelfLife
+      - The Minimum Shelf Life of The Product
+    * - MinIssueShelfLife
+      - The Minimum Shelf Life of The Product Upon Issuing
+    * - IsStackable
+      - Control item is stackable or not, but system have no control on this aspect
+    * - IsDG
+      - States is it a dangerous product
+    * - DGNo
+      - Number of dangerous goods
+    * - HSCode
+      - Harmonized System Codes, use for custom clearance
+    * - ItemDescriptionCustoms
+      - Item description for customs declaration in Simplified Chinese
+    * - Specification
+      - Seems pack size of goods
+    * - CountryOfOrigin
+      - The Country of Origin of The Product Item
+    * - Currency
+      - The Currency of Product Value	
+    * - ItemValue
+      - The Product Value
+        * - MinInventoryWarning
+      - The Minimum Inventory Amount for Warning
+    * - Relable
+      - Need to handle relabel or not
+    * - BBDLabelRequirement
+      - Best before day label requirement, use to remind how to label the best before date for this product
+    * - Repackaging
+      - Use to remind how to do repackaging such as barcode relabel, nutrient Label, plastics bag
+    * - Fragile
+      - Is fragile or not
+    * - Perishable
+      - Is perishable or not
+    * - EasyLeak
+      - Is it easy to leak or not
+    * - EasyPollute
+      - Is it easy to pollute or not
+    * - BBDDisplayRemark
+      - Use to remind how to input BBD in PDA
+    * - IsCaringStorage
+      - Is caring storage goods or not, such as put in air-conditioned environment
+    * - IsHighValue
+      - Is high value goods or not
+    * - Specification_ZH_CN
+      - Pack size in Simplified Chinese
+    * - CountryOfOrigin_ZH_CN
+      - The goods production country in Simplified Chinese
+    * - UOM_ZH_CN
+      - Measure unit in Simplified Chinese
+    * - InnerQty
+      - Quantity of inner pack
+    * - InnerUOM_ZH_CN
+      - Measure unit of inner pack in Simplified Chinese
+    * - ItemBrand_ZH_CN
+      - The goods brand in Simplified Chinese
+      
+      
 .. |Productmodule| image:: Productmodule.JPG
 .. |Productbuttons| image:: Productbuttons.JPG
 .. |Productadvancedsearch| image:: Productadvancedsearch.jpg
@@ -748,3 +870,4 @@ Users can export the merchandizing details of different Products by clicking on 
 .. |Productreport| image:: Productreport.JPG
 .. |Productitemmasterreport| image:: Productitemmasterreport.JPG
 .. |Productmerchandisingmasterreport| image:: Productmerchandisingmasterreport.JPG
+.. |SKUMasterreport| image:: SKUMasterreport.JPG
