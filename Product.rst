@@ -318,7 +318,46 @@ Users can input the additional Production introduction and keyword into the sess
       - The English Keyword of The Product
     * - Product Keyword(Chi)
       - The Chinese Keyword of The Product
-   
+      
+Create Products - Product Vendor
+------------------
+Users can input the additional Production Vendor information into the session of “Product Vendor” which is in the lower part of Create Product popup window.
+
+|Createproductsproductvendor|
+
+.. list-table:: Create Products Product Vendor Page
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+    
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+    * - Add Vendor
+      - Users can click the “Add Vendor” button to input Vendor details.
+    * - Default
+      - Set the Vendor to the default Vendor of The Product
+    * - Id
+      - The Vendor ID
+    * - Vendor Name
+      - The Vendor Name
+    * - Order UOM
+      - The Unit of Product Ordering 
+    * - Order UOM Cost
+      - The Cost per Product Ordering Unit
+    * - Full Case Cost
+      - The Standard Cost of Standard Ordering Unit
+    * - Discount Rate(%)
+      - The Discount Rate for Ordering by Ztore
+    * - Net Order UOM
+      - The number of retail unit of order UOM
+    * - Unit Cost
+      - The Product Unit Cost
+    * - Min. Order Quantity
+      - The Minimum Product Order Quantity
+    * - Actions
+      - Cancel adding the Vendor item
+    
+
 .. |Productmodule| image:: Productmodule.JPG
 .. |Productbuttons| image:: Productbuttons.JPG
 .. |Productadvancedsearch| image:: Productadvancedsearch.jpg
@@ -326,3 +365,4 @@ Users can input the additional Production introduction and keyword into the sess
 .. |Createproducts| image:: Createproducts.jpg
 .. |Createproductsproductotherinformation| image:: Createproductsproductotherinformation.jpg
 .. |Createproductsproductdetail| image:: Createproductsproductdetail.jpg
+.. |Createproductsproductvendor| image:: Createproductsproductvendor.jpg
