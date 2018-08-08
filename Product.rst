@@ -944,7 +944,88 @@ Users can export the Warehouse Management details of different Products by click
     * - ItemBrand_ZH_CN
       - The goods brand in Simplified Chinese
     
+Compare Product Report
+================== 
+Users can Compare Product details offered by Ztore and other companies when clicking on the “Export Item Master for WMS” option from the “Tools” button dropdown list on top of the Products table.
 
+|Compareproductreport|
+
+.. list-table:: WMS Item Report Column Headings 
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+    
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+    * - Item No
+      - The Product ID
+    * - BarCode
+      - The Product Barcode
+    * - Ecom Cat (Chi)
+      - The Chinese Ecommerce Category of The Product
+    * - Ecom Sub-Cat (Chi)
+      - The Chinese Sub-Ecommerce Category of The Product
+    * - Ecom Sub-Sub-Cat (Chi)
+      - The Chinese Sub-Sub-Ecommerce Category of The Product
+    * - English Brand Name
+      - The English Product Brand Name
+    * - English Product Description
+      - The English Product Description
+    * - Chinese Brand Name
+      - The Chinese Product Brand Name
+    * - Chinese Product Description
+      - The Chinese Product Brand Description
+    * - Packsize
+      - The Product Pack size
+    * - Unit Cost
+      - The Product Unit Cost
+    * - Standard Retail Price
+      - The Product Standard Retail Price
+    * - SOH(N)
+      - The fields states the normal stock on hand. Normal stock means that the best before date deducts min shelf day and deducts 10 days (for delivery process) is after today
+    * - SOH(C)
+      - The fields states the clearance stock on hand. Clearance stock means that the best before date between today plus 10 days (for delivery process) and today plus 10 days (for delivery process) plus min shelf day.
+    * - SOH(E)
+      - The fields states the expired stock on hand. Expired stock means that the best before date less than today plus 10 days (for delivery process).
+    * - SOH(H)
+      - The fields states the expired stock on hand. Expired stock means that the best before date less than today plus 10 days (for delivery process).
+    * - Retail Unit GP%
+      - percentage of revenue
+    * - Buying Item Status
+      - It shows item status and is controlled by buying team
+    * - Last Updated Date
+      - The Latest Date of Product Update
+    * - Photo
+      - Uploaded photo for the product?
+    * - Status
+      - product is active / inactive ?
+    * - Compare Product Type
+      - The Type of Comparing Product
+    * - Compare Product Url
+      - The Url Link of The Comparing Product
+    * - Hktvamll Standard Price
+      - The Standard Product Price in HKTVmall
+    * - Hktvamll Price
+      - The Current Product Price in HKTVmall
+    * - hktvamll Product Name
+      - The Product Name in HKTVmall
+    * - Hktvamll PackingSpec
+      - The Packing Specifics of The Product in HKTVmall
+    * - Compare Product Type
+      - The Type of Comparing Product
+    * - Compare Product Url
+      - The Url Link of The Comparing Product
+    * - Parknshop Standard Price
+      - The Standard Product Price in Parknshop	
+    * - Parknshop Price
+      - The Current Product Price in Parknshop
+    * - Parknshop Product Name
+      - The Product Name in Parknshop
+    * - Parknshop PackingSpec
+      - The Packing Specifics of The Product in Parknshop
+    * - Parknshop OffAmount
+      - The Discount Amount of The Product Item offered by Parknshop
+   
       
 .. |Productmodule| image:: Productmodule.JPG
 .. |Productbuttons| image:: Productbuttons.JPG
@@ -964,3 +1045,4 @@ Users can export the Warehouse Management details of different Products by click
 .. |Productmerchandisingmasterreport| image:: Productmerchandisingmasterreport.JPG
 .. |SKUMasterreport| image:: SKUMasterreport.JPG
 .. |WMSItemreport| image:: WMSItemreport.JPG
+.. |Compareproductreport| image:: Compareproductreport.JPG
