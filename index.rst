@@ -15,5 +15,6 @@
    Vendor
    Brand
    Product
+   ProductNotify
 
 
