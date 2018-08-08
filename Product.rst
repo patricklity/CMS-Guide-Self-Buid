@@ -448,6 +448,12 @@ Users can select more than one Product at a time and click the “Batch Update�
 
 |Productbatchupdate|
 
+Other Search
+==================
+User can filter the Products by the Product stats when clicking the “Other Search” button on top of the Product table.
+
+|Productothersearch|
+
 .. |Productmodule| image:: Productmodule.JPG
 .. |Productbuttons| image:: Productbuttons.JPG
 .. |Productadvancedsearch| image:: Productadvancedsearch.jpg
@@ -460,5 +466,5 @@ Users can select more than one Product at a time and click the “Batch Update�
 .. |Createproductsproductlogistics| image:: Createproductsproductlogistics.jpg
 .. |Createproductsproductdimension| image:: Createproductsproductdimension.jpg
 .. |Productbatchupdate| image:: Productbatchupdate.jpg
-
+.. |Productothersearch| image:: Productothersearch.JPG
 
