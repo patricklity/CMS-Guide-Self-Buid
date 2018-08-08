@@ -950,7 +950,7 @@ Users can Compare Product details offered by Ztore and other companies when clic
 
 |Compareproductreport|
 
-.. list-table:: WMS Item Report Column Headings 
+.. list-table:: Compare Product Report Column Headings 
     :widths: 10 50
     :header-rows: 1
     :stub-columns: 1
