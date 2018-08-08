@@ -35,6 +35,28 @@ Product Notification List displays the details of different Product Notification
       - Edit - Edit Product Notification Item
       
       
-      
-      
+Buttons
+==================  
+User can search Product Notification items by clicking on the buttons on top of the Product Notification table. User can also export Product Notification details in Excel format.
+
+|Productnotifybutton|
+
+.. list-table:: Product Notify Module Buttons
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+    * - Advanced Search
+      - Users can search Product Notification items with different criterion
+    * - Export Excel
+      - Users can export Product Notification details in Excel format
+    * - Quick Search sn, name Input Box
+      - Users can carry out quick search by inputting Product ID or Product Name into the Input Box
+    * - Other Search
+      - Users can filter Product Notifications by their status.
+   
+
 .. |Productnotifymodule| image:: Productnotifymodule.JPG
+.. |Productnotifybutton| image:: Productnotifybutton.JPG
