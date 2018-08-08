@@ -526,6 +526,122 @@ Users can export Product Details in Excel format by clicking on the “Export to
     * - Weighted Average Cost
       - The Weighted Average Cost of The Product
 
+Product Item Master Report
+================== 
+
+Users can Export the Details of Different Product Items by clicking on the “Export Item Master” Option in the Dropdown list from the “Tools” button on top of the Product table.
+
+|Productitemmasterreport|
+
+.. list-table:: Product Report Column Headings 
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+    
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+    * - Item No
+      - The Product ID
+    * - Barcode
+      - The Product Barcode
+    * - English Brand Name
+      - The English Brand Name of The Product
+    * - English Product Description
+      - The English Description of The Product
+    * - Packsize
+      - The Product Pack size
+    * - Chinese Brand Name
+      - The Chinese Brand Name of The Product
+    * - Chinese Product Description
+      - The Chinese Product Description
+    * - Chinese Brand Name
+      - The Chinese Brand Name of The Product
+    * - Chinese Product Description
+      - The Chinese Description of The Product
+    * - Vendor code
+      - The Vendor ID
+    * - Vendor name
+      - The Vendor Name
+    * - Vendor item no
+      - The Vender Item Number
+    * - Order UOM
+      - The Measurement Unit of The Product
+    * - Order PIC
+      - The Person in Charge for The Product Order
+    * - Item PIC
+      - The Person in Charge for The Product Item
+    * - No. of Retail Unit per Order UOM
+      - The Amount of Retail Unit in Each Product Order Unit
+    * - Order UOM Gross Cost
+      - The Cost of Each Product Order Unit
+    * - Discount Rate
+      - The Discount Rate of Each Product Order Unit
+    * - Net Order UOM Cost
+      - The net cost of 1 UOM, UOM mean unit of measure
+    * - Net Retail Unit Cost
+      - The Net Cost of Each Product Retail Unit
+    * - Weighted Average Cost
+      - The Weighted Average Cost of Product per Unit
+    * - Ecommerce Category (Primary)
+      - The Primary Ecommerce Category of The Product\
+    * - Ecom Cat (Eng)
+      - The English Ecommerce Category of The Product
+    * - Ecom Sub-Cat (Eng)
+      - The English Sub-Ecommerce Category of The Product
+    * - Ecom Sub-Sub-Cat (Eng)
+      - The English Sub-Sub-Ecommerce Category of The Product
+    * - Standard Retail Price
+      - The Standard Retail Price of The Product
+    * - Isactive
+      - Active/ Inactive Product
+    * - Buying Status
+      - Ready/ Delete Buying Status
+    * - Active Date
+      - The Starting Date of Receiving Order 
+    * - Ecommerce Category
+      - The Ecommerce Category of The Product
+    * - Tag
+      - The Product Tag
+    * - Chinese Product Introduction
+      - The Chinese Introduction of The Product
+    * - English Product Introduction
+      - The English Introduction of The Product
+    * - COO_ID
+      - The country code of origin
+    * - Relabel
+      - Remind that this product need to handle relabel or not
+    * - BBD
+      - Special handling for BBD during inbound	
+    * - Barcode Relabel
+      - Remind that this product need to relabel barcode
+    * - Expired Date Remark
+      - The Additional Information of Product Expiry Date
+    * - Min Receive Shelf Live
+      - The Minimum Product Shelf Life Upon Revving
+    * - Min Issue Shelf Live
+      - The Minimum Product Shelf Life Upon Issuing
+    * - Locker-Fit Exception
+      - methods for deciding whether is locker fit, default => base on dimension, Yes => locker fit, No => non-locker fit 
+    * - Case dimension-Length
+      - The Product Case length
+    * - Case dimension-Width
+      - The Product Case Width
+    * - Case dimension-Height
+      - The Product Case Height
+    * - Case weight
+      - The Product Case Weight
+    * - Unit dimension-Length
+      - The Product Unit length
+    * - Unit dimension-Width
+      - The Product Unit Width
+    * - Unit dimension-Height
+      - The Product unit Height
+    * - Unit weight
+      - The Product Unit Weight
+    * - Other Barcode
+      - The Additional Barcode of The Product
+
+
 .. |Productmodule| image:: Productmodule.JPG
 .. |Productbuttons| image:: Productbuttons.JPG
 .. |Productadvancedsearch| image:: Productadvancedsearch.jpg
@@ -540,3 +656,4 @@ Users can export Product Details in Excel format by clicking on the “Export to
 .. |Productbatchupdate| image:: Productbatchupdate.jpg
 .. |Productothersearch| image:: Productothersearch.JPG
 .. |Productreport| image:: Productreport.JPG
+.. |Productitemmasterreport| image:: Productitemmasterreport.JPG
