@@ -254,6 +254,48 @@ Users can create new Product items by clicking on the “Create Product” butto
     * - Updated By
       - The Person of doing The Latest Update on The Product
     
+Create Products - Product Other Information
+------------------
+Users can input the additional inventory and storage information into the session of “Product Other Information” which is in the lower part of Create Product popup window.
+
+
+|Createproductsproductotherinformation|
+
+.. list-table:: Create Products Product Other Information Page
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+    
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+    * - Packsize
+      - The number of Product Units in a Pack
+    * - Packsize(Chi)
+      - The Chinese number of Product Units in a Pack
+    * - Retail Unit GP%
+      - percentage of revenue
+    * - WAC
+      - Average of product cost
+    * - No. of Retail Unit/Order UOM
+      - The number of retail unit of order UOM
+    * - No. of Retail Unit/Full Case
+      - The number of retail unit of full case
+    * - Manufacture Shelf Life 
+      - The best before date should be produce date plus days of manufacture shelf life
+    * - Service Level
+      - The value that control how aggressive to keep inventory will not come to zero
+    * - Minimum Inventory Warning
+      - The Lower Limit of Inventory Level Triggering Inventory Warning
+    * - Maximum Inventory Warning
+      - The Upper Limit of Inventory Level Triggering Inventory Warning
+    * - Min Receive Shelf Life
+      - The Lower Limit of Placing The Product on Shelf Upon Receiving
+    * - Min Issue Shelf Life
+      - The Lower Limit of Placing The Product on Shelf Upon Issuing
+    * - Link of Hktvmall Product Page
+      - The Link of Product in HKTVMall
+    * - Link of Parknshop Product Page
+      - The Link of Product in Parknshop Page
 
 
 .. |Productmodule| image:: Productmodule.JPG
@@ -261,3 +303,4 @@ Users can create new Product items by clicking on the “Create Product” butto
 .. |Productadvancedsearch| image:: Productadvancedsearch.jpg
 .. |Productadvancedsearch| image:: Productadvancedsearch.jpg
 .. |Createproducts| image:: Createproducts.jpg
+.. |Createproductsproductotherinformation| image:: Createproductsproductotherinformation.jpg
