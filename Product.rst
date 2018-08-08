@@ -642,6 +642,96 @@ Users can Export the Details of Different Product Items by clicking on the “Ex
       - The Additional Barcode of The Product
 
 
+Product Merchandising Master Report
+================== 
+Users can export the merchandizing details of different Products by clicking on the “Export Merchandising Mater” option from the “Tools” button dropdown list on top of the Products table.
+
+|Productmerchandisingmasterreport|
+
+.. list-table:: Product Merchandising Master Report Column Headings 
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+    
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+    * - Product Code
+      - The Product ID
+    * - Barcode
+      - The Product Barcode
+    * - Ecommerce Category
+      - The Ecommerce Category of The Product
+    * - Ecommerce Category (Primary)
+      - The Primary Ecommerce Category of The Product
+    * - Ecom Cat (Eng)
+      - The English Ecommerce Category of The Product
+    * - Ecom Sub-Cat (Eng)
+      - The English Sub-Ecommerce Category of The Productt
+    * - Ecom Sub-Sub-Cat (Eng)
+      - The English Sub-Sub-Ecommerce Category of The Product
+    * - English Brand Name
+      - The English Brand Name of The Product
+    * - English Product Description
+      - The English Description of The Product
+    * - Chinese Brand Name
+      - The Chinese Brand Name of The Product
+    * - Chinese Product Description
+      - The Chinese Description of The Product
+    * - Packsize
+      - The Product Pack size
+    * - Vendor item no
+      - The Vendor Item Number
+    * - Vendor code
+      - The Vendor ID
+    * - Vendor name
+      - The Vendor Name
+    * - Primary Supplier
+      - The Name of Primary Product Supplier
+    * - Order UOM
+      - The Measurement Unit of The Product Order
+    * - No. of Retail Unit per Order UOM
+      - The Amount of Retail Unit in Each Product Order Unit
+    * - Full Case Gross Cost
+      - The Gross Cost of Product per Full Case
+    * - Discount Rate
+      - The Discount Rate of The Product
+    * - Net Order UOM Cost
+      - The Net Cost of Each Product Order Unit
+    * - Net Retail Unit Cost
+      - The Net Cost of Each Product Retail Unit
+    * - RSP
+      - Means retail sales price, but it is useless now
+    * - Standard Retail Price
+      - The Standard Retail Price of The Product
+    * - Retail Unit GP%
+      - percentage of revenue
+    * - COO_ID
+      - The country code of origin
+    * - Tag
+      - The Product Tag
+    * - Chinese Product Introduction
+      - The Chinese Introduction of The Product
+    * - English Product Introduction
+      - The English Introduction of The Product
+    * - Isactive
+      - Is The Product active/inactive?t
+    * - Buying Item Status
+      - The fields state the normal stock on hand. Normal stock means that the best before date deducts min shelf day and deducts 10 days (for delivery process) is after today
+    * - Active Date
+      - The Active Date of The Product
+    * - Photo Log Status
+      - States this product exists product photos or not
+    * - SOH(N)
+      - The fields state the normal stock on hand. Normal stock means that the best before date deducts min shelf day and deducts 10 days (for delivery process) is after today
+    * - RSOH(C)
+      - The fields state the clearance stock on hand. Clearance stock means that the best before date between today plus 10 days (for delivery process) and today plus 10 days (for delivery process) plus min shelf day.
+    * - SOH(E)
+      - The fields state the expired stock on hand. Expired stock means that the best before date less than today plus 10 days (for delivery process).	
+    * - SOH(H)
+      - The Accumulated Product Sales Quantity
+   
+      
+
 .. |Productmodule| image:: Productmodule.JPG
 .. |Productbuttons| image:: Productbuttons.JPG
 .. |Productadvancedsearch| image:: Productadvancedsearch.jpg
@@ -657,3 +747,4 @@ Users can Export the Details of Different Product Items by clicking on the “Ex
 .. |Productothersearch| image:: Productothersearch.JPG
 .. |Productreport| image:: Productreport.JPG
 .. |Productitemmasterreport| image:: Productitemmasterreport.JPG
+.. |Productmerchandisingmasterreport| image:: Productmerchandisingmasterreport.JPG
