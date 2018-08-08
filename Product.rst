@@ -303,6 +303,11 @@ Users can input the additional Production introduction and keyword into the sess
 
 |Createproductsproductdetail|
 
+.. list-table:: Create Products Product Detail Page
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+
     * - FIELD NAME
       - FIELD DESCRIPTION
     * - Product Intro.(Eng)
