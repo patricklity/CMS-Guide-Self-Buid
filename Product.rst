@@ -356,7 +356,55 @@ Users can input the additional Production Vendor information into the session of
       - The Minimum Product Order Quantity
     * - Actions
       - Cancel adding the Vendor item
+   
+Create Products - Product Image
+------------------
+Users can input the Product Image into the session of “Product Image” which is in the lower part of Create Product popup window.
+
+|Createproductsproductimage|
+
+.. list-table:: Create Products Product Image Page
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
     
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+    * - Product Image 1
+      - Upload The Product Image here
+    * - Product Image 2
+      - Upload The Product Image here
+    * - Product Image 3
+      - Upload The Product Image here
+      
+      
+Create Products - Product Logistics
+------------------
+Users can input the Product logistic information into the session of “Product Logistics” which is in the lower part of Create Product popup window.
+
+|Createproductsproductlogistics|
+
+.. list-table:: Create Products Product Logistics Page
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+    
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+    * - Relabel
+      - "Yes" or "No" Relabeling of The Product?
+    * - BBD Labeling Requirement:
+      - How to label the best before date for this product
+    * - Repackaging Requirement
+      - Select The Requirement of Repackaging
+    * - Temperature
+      - The Temperature Level for Product Logistics
+    * - Product Status
+      - Select The Characteristics of The Product
+    * - Expired Date Remark
+      - Remarks on expired date. For example, some products assume that they will not be expired, we will mark as 20991231
+    * - HS Code
+      - Harmonized System Codes, use for custom clearance
 
 .. |Productmodule| image:: Productmodule.JPG
 .. |Productbuttons| image:: Productbuttons.JPG
@@ -366,3 +414,5 @@ Users can input the additional Production Vendor information into the session of
 .. |Createproductsproductotherinformation| image:: Createproductsproductotherinformation.jpg
 .. |Createproductsproductdetail| image:: Createproductsproductdetail.jpg
 .. |Createproductsproductvendor| image:: Createproductsproductvendor.jpg
+.. |Createproductsproductimage| image:: Createproductsproductimage.jpg
+.. |Createproductsproductlogistics| image:: Createproductsproductlogistics.jpg
