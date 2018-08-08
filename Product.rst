@@ -96,7 +96,7 @@ Users can search for Product items by clicking on the “Advanced Search” butt
 |Productadvancedsearch|
 
 .. list-table:: Product Advanced Search
-    :widths: 10 50
+    :widths: 10 50 50
     :header-rows: 1
     :stub-columns: 1
 
@@ -146,4 +146,4 @@ Users can search for Product items by clicking on the “Advanced Search” butt
 
 .. |Productmodule| image:: Productmodule.JPG
 .. |Productbuttons| image:: Productbuttons.JPG
-.. |Productadvancedsearch| image:: |Productadvancedsearch|.jpg
+.. |Productadvancedsearch| image:: Productadvancedsearch.jpg
