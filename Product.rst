@@ -406,6 +406,43 @@ Users can input the Product logistic information into the session of “Product 
     * - HS Code
       - Harmonized System Codes, use for custom clearance
 
+Create Products - Product Dimension
+------------------
+Users can input the Product Dimension and Size information into the session of “Product Dimension” which is in the lower part of Create Product popup window.
+
+|Createproductsproductdimension|
+
+.. list-table:: Create Products Product Dimension Page
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+    
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+    * - Case Length(cm)
+      - The Length of Product Case
+    * - Case Width(cm)
+      - The Width of Product Case
+    * - Case Height(cm)
+      - The Height of Product Case
+    * - Case Weight(g)
+      - The Weight of Product Case
+    * - Unit Length(cm)
+      - The Length of a Product Unit
+    * - Unit Width(cm)
+      - The Width of a Product Unit
+    * - Unit Height(cm)
+      - The Height of a Product Unit
+    * - Unit Weight(g)
+      - The Weight of a Product Unit
+    * - No. of CS per Pallet
+      - Number of case size for each pallet
+    * - No. of Layers per Pallet
+      - Number of layer for each pallet
+    * - No. of Cases per Layer
+      - Number of case size for each layer
+
+
 .. |Productmodule| image:: Productmodule.JPG
 .. |Productbuttons| image:: Productbuttons.JPG
 .. |Productadvancedsearch| image:: Productadvancedsearch.jpg
@@ -416,3 +453,7 @@ Users can input the Product logistic information into the session of “Product 
 .. |Createproductsproductvendor| image:: Createproductsproductvendor.jpg
 .. |Createproductsproductimage| image:: Createproductsproductimage.jpg
 .. |Createproductsproductlogistics| image:: Createproductsproductlogistics.jpg
+.. |Createproductsproductdimension| image:: Createproductsproductdimension.jpg
+
+
+
