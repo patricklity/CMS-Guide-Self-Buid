@@ -168,6 +168,7 @@ Users can create new Product items by clicking on the “Create Product” butto
     :widths: 10 50
     :header-rows: 1
     :stub-columns: 1
+    
     * - FIELD NAME
       - FIELD DESCRIPTION
     * - Product Type
