@@ -852,7 +852,99 @@ Users can export the stock keeping details of different Products by clicking on 
       - Measure unit of inner pack in Simplified Chinese
     * - ItemBrand_ZH_CN
       - The goods brand in Simplified Chinese
-      
+
+
+WMS Item Report
+================== 
+Users can export the Warehouse Management details of different Products by clicking on the “Export Item Master for WMS” option from the “Tools” button dropdown list on top of the Products table.
+
+|WMSItemreport|
+
+.. list-table:: WMS Item Report Column Headings 
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+    
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+    * - ItemNo
+      - The Product ID
+    * - ItemDescription
+      - The English Description of The Product
+    * - ItemDescriptionChi
+      - The Chinese Description of The Product
+    * - BarCode
+      - The Product Barcode
+    * - DefaultUOM
+      - The Default Measurement Unit of The Product
+    * - GrossWeight
+      - The Gross Weight of The Product
+    * - NetWeight
+      - The Net Weight of The Product
+    * - Length
+      - The Length of The Product
+    * - Width
+      - The Width of The Product
+    * - Height
+      - The Height of The Product
+    * - Cubage
+      - represent product volume = length * width * height (all in meter)
+    * - ItemCategory
+      - The Product Category Name
+    * - ItemCategoryChi
+      - The Chinese Product Category Name
+    * - ItemBrand
+      - The Product Brand Name
+    * - ItemBrandChi
+      - The Chinese Product Brand Name
+    * - QtyForPallet
+      - Capability for one pallet, use to estimate space during inbound
+    * - PickByBatchNo
+      - Use to control that this product need to pick by batch or not. If true, warehouse pickers need to pick items by given batch no for all sales orders
+    * - MinShelfLife
+      - The Minimum Shelf Life of The Product
+    * - MinIssueShelfLife
+      - The Minimum Shelf Life of The Product Upon Issuing
+    * - HSCode
+      - Harmonized System Codes, use for custom clearance
+    * - ItemDescriptionCustoms
+      - Item description for customs declaration in Simplified Chinese
+    * - Specification
+      - Seems packsize of goods
+    * - CountryOfOrigin
+      - The Product Country of Origin
+    * - Relable
+      - Need to handle relabel or not
+    * - BBDLabelRequirement
+      - Best before day label requirement, use to remind how to label the best before date for this product
+    * - Repackaging
+      - Use to remind how to do repackaging such as barcode relabel, nutrient Label, plastics bag
+    * - Fragile
+      - Is fragile or not
+    * - Perishable
+      - Is perishable or not
+    * - EasyLeak
+      - Is it easy to leak or not
+    * - BBDDisplayRemark
+      - Use to remind how to input BBD in PDA	
+    * - humidityAndTemperatureControl
+      - is humidity and temperature control, such as put in air-conditioned environment
+    * - IsHighValue
+      - Is high value goods or not
+    * - Specification_ZH_CN
+      - Pack size in Simplified Chinese
+    * - CountryOfOrigin_ZH_CN
+      - The goods production country in Simplified Chinese
+    * - UOM_ZH_CN
+      - Measure unit in Simplified Chinese
+    * - InnerQty
+      - Quantity of inner pack
+    * - InnerUOM_ZH_CN
+      - Measure unit of inner pack in Simplified Chinese
+    * - ItemBrand_ZH_CN
+      - The goods brand in Simplified Chinese
+    
+
       
 .. |Productmodule| image:: Productmodule.JPG
 .. |Productbuttons| image:: Productbuttons.JPG
@@ -871,3 +963,4 @@ Users can export the stock keeping details of different Products by clicking on 
 .. |Productitemmasterreport| image:: Productitemmasterreport.JPG
 .. |Productmerchandisingmasterreport| image:: Productmerchandisingmasterreport.JPG
 .. |SKUMasterreport| image:: SKUMasterreport.JPG
+.. |WMSItemreport| image:: WMSItemreport.JPG
