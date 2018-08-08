@@ -454,6 +454,21 @@ User can filter the Products by the Product stats when clicking the “Other Sea
 
 |Productothersearch|
 
+.. list-table:: Product Other Search 
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+    
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+    * - Get Inventory Warning Product
+      - Display The Products with Inventories Reaching the Warning Level
+    * - Get All
+      - Show All Products
+    * - Get Non-Delete Product
+      - Show Products with Delete Field is "No"
+   
+
 .. |Productmodule| image:: Productmodule.JPG
 .. |Productbuttons| image:: Productbuttons.JPG
 .. |Productadvancedsearch| image:: Productadvancedsearch.jpg
