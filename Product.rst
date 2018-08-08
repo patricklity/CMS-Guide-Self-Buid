@@ -467,7 +467,64 @@ User can filter the Products by the Product stats when clicking the “Other Sea
       - Show All Products
     * - Get Non-Delete Product
       - Show Products with Delete Field is "No"
-   
+  
+Product Report
+==================  
+Users can export Product Details in Excel format by clicking on the “Export to Excel” options from the “Tools” button dropdown list on top of the Products table.
+
+|Productreport|
+
+.. list-table:: Product Report Column Headings 
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+    
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+    * - Item No
+      - The Product ID
+    * - Barcode
+      - The Product Barcode
+    * - Ecom Cat (Chi)
+      - The first layer of category
+    * - Ecom Sub-Cat (Chi)
+      - The second layer of category
+    * - Ecom Sub-Sub-Cat (Chi)
+      - The third layer of category
+    * - English Brand Name
+      - The English Brand Name of The Product
+    * - English Product Description
+      - The English Description of The Product
+    * - Chinese Brand Name
+      - The Chinese Brand Name of The Product
+    * - Chinese Product Description
+      - The Chinese Description of The Product
+    * - Packsize
+      - The Product Pack size
+    * - Unit Cost
+      - The Cost of Product Per Unit
+    * - Standard Retail Price
+      - The Standard Retail Price of The Product
+    * - SOH(N)
+      - The fields states the normal stock on hand. Normal stock means that the best before date deducts min shelf day and deducts 10 days (for delivery process) is after today
+    * - SOH(C)
+      - The fields states the clearance stock on hand. Clearance stock means that the best before date between today plus 10 days (for delivery process) and today plus 10 days (for delivery process) plus min shelf day.
+    * - SOH(E)
+      - The fields states the expired stock on hand. Expired stock means that the best before date less than today plus 10 days (for delivery process).
+    * - SOH(H)
+      - stock on hand - Hold
+    * - Retail Unit GP%
+      - percentage of revenue
+    * - Buying Item Status
+      - It shows item status and is controlled by buying team
+    * - Last Updated Date
+      - The Latest Update Date of The Product
+    * - Photo
+      - The Product Photo
+    * - Status
+      - Active/ Inactive Product
+    * - Weighted Average Cost
+      - The Weighted Average Cost of The Product
 
 .. |Productmodule| image:: Productmodule.JPG
 .. |Productbuttons| image:: Productbuttons.JPG
@@ -482,4 +539,4 @@ User can filter the Products by the Product stats when clicking the “Other Sea
 .. |Createproductsproductdimension| image:: Createproductsproductdimension.jpg
 .. |Productbatchupdate| image:: Productbatchupdate.jpg
 .. |Productothersearch| image:: Productothersearch.JPG
-
+.. |Productreport| image:: Productreport.JPG
