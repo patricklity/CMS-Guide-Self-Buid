@@ -297,10 +297,27 @@ Users can input the additional inventory and storage information into the sessio
     * - Link of Parknshop Product Page
       - The Link of Product in Parknshop Page
 
+Create Products - Product Detail
+------------------
+Users can input the additional Production introduction and keyword into the session of “Product Detail” which is in the lower part of Create Product popup window.
 
+|Createproductsproductdetail|
+
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+    * - Product Intro.(Eng)
+      - The English Introduction of The Product
+    * - Product Intro.(Chi)
+      - The Chinese Introduction of The Product
+    * - Product Keyword(Eng)
+      - The English Keyword of The Product
+    * - Product Keyword(Chi)
+      - The Chinese Keyword of The Product
+   
 .. |Productmodule| image:: Productmodule.JPG
 .. |Productbuttons| image:: Productbuttons.JPG
 .. |Productadvancedsearch| image:: Productadvancedsearch.jpg
 .. |Productadvancedsearch| image:: Productadvancedsearch.jpg
 .. |Createproducts| image:: Createproducts.jpg
 .. |Createproductsproductotherinformation| image:: Createproductsproductotherinformation.jpg
+.. |Createproductsproductdetail| image:: Createproductsproductdetail.jpg
