@@ -158,8 +158,101 @@ Users can search for Product items by clicking on the “Advanced Search” butt
       - The Person in Charge for The Product Item
       -
     
+Create Products
+==================
+Users can create new Product items by clicking on the “Create Product” button on top of the Product table and input product details into the popup window.
+
+|Createproducts|
+
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+    * - Product Type
+      - The Type of Product
+    * - Product Code
+      - Auto-Generation of The Code of Product by The System
+    * - Barcode 1
+      - The Product Barcode 1
+    * - Barcode 2
+      - The Product Barcode 2
+    * - Barcode 3
+      - The Product Barcode 3
+    * - English Product Description
+      - The English Description of Product
+    * - Chinese Product Description(TC)
+      - The Traditional Chinese Description of Product
+    * - Chinese Product Description(SC)
+      - The Simplified Chinese Description of Product
+    * - SOH(N)
+      - The fields state the normal stock on hand. Normal stock means that the best before date deducts min shelf day and deducts 10 days (for delivery process) is after today
+    * - SOH(C)
+      - The fields state the clearance stock on hand. Clearance stock means that the best before date between today plus 10 days (for delivery process) and today plus 10 days (for delivery process) plus min shelf day.
+    * - SOH(E)
+      - The fields state the expired stock on hand. Expired stock means that the best before date less than today plus 10 days (for delivery process).
+    * - SOH(H)
+      - stock on hand - Hold
+    * - Photo
+      - "Yes" or "No" Contain Photo
+    * - Quota Per Order
+      - The Upper Limit of Product Quantity in each Order
+    * - Standard Retail Price
+      - The Standard Retail Price of Product
+    * - Zdollar Percentage(%)
+      - earn zdollar of percentage of sales value
+    * - Zdollar Start At
+      - The Starting Date of Using available Zdollar
+    * - Zdollar End At
+      - The Final Date of Using available Zdollar
+    * - Zmile
+      - earn zmile if buy the product during a period, zmile is used for redeeming gift...
+    * - Zmile Start At
+      - The Starting Date of Using available Zmile
+    * - Zmile End At
+      - The Final Date of Using available Zmile
+    * - Brand
+      - The Brand of Product
+    * - Product Unit
+      - The Unit of Product
+    * - Product Country
+      - The Origin Country of Product
+    * - New
+      - Select if The Product is a "New" Item
+    * - Hot
+      - Select if The Product is a "Hot" Item
+    * - Sort Order
+      - The Relative Importance of The Product
+    * - Buying Item Status
+      - The Status of Product Buying Item
+    * - Locker-Fit Exception
+      - methods for deciding whether is locker fit, default => base on dimension, Yes => locker fit, No => non-locker fit 
+    * - Locker-Fit
+      - "Yes" or "No" Fit into Locker
+    * - Visible
+      - "Yes" or " No" Product Visibility
+    * - Status
+      - Active/ Inactive Product
+    * - Active date
+      - The date this product first time to be active
+    * - Category
+      - The Category Assigned to The Product
+    * - Tag
+      - The Tag of The Product
+    * - Order PIC
+      - The Person in Charge of The Product Order
+    * - Item PIC
+      - The Person in Charge of The Product Item
+    * - Created Date
+      - The Date of Creating The Product Item
+    * - Created By
+      - The Person of Creating The Product Item
+    * - Updated Date
+      - The Latest Date of Product Update
+    * - Updated By
+      - The Person of doing The Latest Update on The Product
+    
 
 
 .. |Productmodule| image:: Productmodule.JPG
 .. |Productbuttons| image:: Productbuttons.JPG
 .. |Productadvancedsearch| image:: Productadvancedsearch.jpg
+.. |Productadvancedsearch| image:: Productadvancedsearch.jpg
+.. |Createproducts| image:: Createproducts.jpg
