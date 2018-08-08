@@ -533,7 +533,7 @@ Users can Export the Details of Different Product Items by clicking on the “Ex
 
 |Productitemmasterreport|
 
-.. list-table:: Product Report Column Headings 
+.. list-table:: Product Item Master Report Column Headings 
     :widths: 10 50
     :header-rows: 1
     :stub-columns: 1
