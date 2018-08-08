@@ -98,25 +98,32 @@ Users can search for Product items by clicking on the “Advanced Search” butt
 .. list-table:: Product Advanced Search
     :widths: 10 50 50
     :header-rows: 1
-    :stub-columns: 2
+    :stub-columns: 1
 
     * - FIELD NAME
       - FIELD DESCRIPTION
-      - Calculations
+      - CALCULATIONS
     * - Product Code
       - The Product Code
+      -
     * - Related Vendor
       - The Product Vendor
+      -
     * - Barcode
       - The Product Barcode
+      -
     * - Brand
       - The Product Brand
+      -
     * - Category
       - The Product Category
+      -
     * - Tag
       - The Tag of The Product
+      -
     * - Standard Retail Price
       - The Standard Retail Price Range of The Product
+      -
     * - Total SOH
       - sum of all stock on hand
       - Normal + Clearance + Expired
@@ -125,23 +132,31 @@ Users can search for Product items by clicking on the “Advanced Search” butt
       - Normal + Clearance - Hold (not include expired)
     * - Zdollar Percentage(%)
       - earn zdollar of percentage of sales value
+      -
     * - Zmile
       - earn zmile if buy the product during a period, zmile is used for redeeming gift...
+      -
     * - Buying Item Status
       - The Buying Item Issue for The Product or for Exchange
       - Delete - The Product is removed from Selling, Discontinue - The Product is stopped from Selling, OOS - The Product is Sold Out,         Pending - The Product is not yet Publicly Selling, Quality Issue - The Product is having Quality Problems currently, Ready - The         Product is Available for Selling, Return/Exchange - The Product is being Returned to The Vend
     * - Status
       - Active/ Inactive Products
+      -
     * - Locker-Fit
       - "Yes" or "No" Fit into Locker
+      -
     * - Delete
       - "Yes" or "No" Deleted Product
+      -
     * - Product Codes
       - The Code of Products
+      -
     * - Order PIC
       - The Person in Charge for The Product Order
+      -
     * - Item PIC
       - The Person in Charge for The Product Item
+      -
     
 
 
