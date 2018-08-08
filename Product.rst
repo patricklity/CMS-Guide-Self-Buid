@@ -442,6 +442,11 @@ Users can input the Product Dimension and Size information into the session of ‚
     * - No. of Cases per Layer
       - Number of case size for each layer
 
+Batch Update
+==================
+Users can select more than one Product at a time and click the ‚ÄúBatch Update‚Äù button on top of the Products table to update the details of the selected Products at the same time.
+
+|Productbatchupdate|
 
 .. |Productmodule| image:: Productmodule.JPG
 .. |Productbuttons| image:: Productbuttons.JPG
@@ -454,6 +459,6 @@ Users can input the Product Dimension and Size information into the session of ‚
 .. |Createproductsproductimage| image:: Createproductsproductimage.jpg
 .. |Createproductsproductlogistics| image:: Createproductsproductlogistics.jpg
 .. |Createproductsproductdimension| image:: Createproductsproductdimension.jpg
-
+.. |Productbatchupdate| image:: Productbatchupdate.jpg
 
 
