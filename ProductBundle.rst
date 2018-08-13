@@ -69,5 +69,30 @@ Users can click on the buttons on top of the Product Bundle table to create new 
    
 .. list-table:: 
 
+Create Product Bundle
+================== 
+Users can create new Product Bundle items by clicking on the “Create Bundle” button on top of the Product Bundle table.
+
+|Createproductbundle|
+
+.. list-table:: Product Notify Module Buttons
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+    * - Bundle Parent
+      - The Product Parent of The Bundle
+    * - Bundle Childrens(Selection)
+      - The Product Children of The Bundle
+    * - Bundle Childrens(Text Phase)
+      - "Use standard format data to add bundle children quickly, Format is ""item code"" ""qty"" each line, eg)1000002 2 1000003 3 System will added 1000002 X2 and 1000003 X3 into children list"
+
+      
+.. list-table:: 
+
+
 .. |Productbundlemodule| image:: Productbundlemodule.JPG
 .. |Productbundlebuttons| image:: Productbundlebuttons.JPG
+.. |Createproductbundle| image:: Createproductbundle.jpg
