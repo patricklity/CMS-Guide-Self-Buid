@@ -23,5 +23,6 @@
    ProductBatchCreation
    ProductBatchUpdate
    ProductRating
+   ProductCostUpdate
 
 
