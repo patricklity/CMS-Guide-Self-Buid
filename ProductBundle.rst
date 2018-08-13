@@ -5,7 +5,7 @@ Product Bundle Module displays the details of all Product Bundles in the table. 
 
 |Productbundlemodule|
 
-.. list-table:: Product 
+.. list-table::  Product Notify Other Search
     :widths: 10 50
     :header-rows: 1
     :stub-columns: 1
