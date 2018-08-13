@@ -116,8 +116,28 @@ Users can export Product Notification items details in Excel format by clicking 
       - The Date of First Product Notify for The Product
     * - Notify Status
       - The Product Notification Status
+      
+Other Search
+==================
+Users can filter Product Notification by their status when clicking on the “Other Search” button on top of the Production Notification table.
+
+|Productnotifyothersearch|
+
+.. list-table:: Product Notify Other Search
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+    * - Get all notifications
+      - Show All Notifications
+    * - get active notifications
+      - Show All "Active" Status Notifications
+    
 
 .. |Productnotifymodule| image:: Productnotifymodule.JPG
 .. |Productnotifybutton| image:: Productnotifybutton.JPG
 .. |Productnotifyadvancedsearch| image:: Productnotifyadvancedsearch.jpg
 .. |Productnotifyreport| image:: Productnotifyreport.JPG
+.. |Productnotifyothersearch| image:: Productnotifyothersearch.JPG
