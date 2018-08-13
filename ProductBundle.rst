@@ -30,7 +30,7 @@ Product Bundle Module displays the details of all Product Bundles in the table. 
       - The Name of Brand in Chinese
     * - Chinese Product Description
       - The Description of Product in Chinese   
-       * - Packsize
+    * - Packsize
       - The Pack size of Product
     * - Price
       - The Price of Product
