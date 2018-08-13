@@ -20,5 +20,6 @@
    FeaturedProduct
    ProductInventory
    ProductHoldInventory
+   ProductBatchCreation
 
 
