@@ -146,10 +146,32 @@ Users can Create new Review by clicking on the “Create Review” button on top
     * - Image [5]
       - Upload Product Review Image here
    
+Product Rating Report
+================== 
+Users can export Customer Review details by clicking on the “Export Product Rating Report” option from the “Tools” button dropdown list.
 
+|Productratingreport|
+
+.. list-table:: Product Rating Report Column Headings
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+    * - Customer SN
+      - The Customer ID
+    * - Customer Name
+      - The Customer Name
+    * - Membership Level
+      - The Customer Member Level
+    * - Description
+      - The Customer Rating Content
+    
 
 .. |Productratingmodule| image:: Productratingmodule.JPG
 .. |Productratingbuttons| image:: Productratingbuttons.JPG
 .. |Productratingbatchupdate| image:: Productratingbatchupdate.jpg
 .. |Productratingadvancedsearch| image:: Productratingadvancedsearch.jpg
 .. |Productratingcreatereview| image:: Productratingcreatereview.jpg
+.. |Productratingreport| image:: Productratingreport.JPG
