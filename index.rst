@@ -19,5 +19,6 @@
    ProductBundle
    FeaturedProduct
    ProductInventory
+   ProductHoldInventory
 
 
