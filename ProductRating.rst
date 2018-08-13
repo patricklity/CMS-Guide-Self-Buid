@@ -80,6 +80,45 @@ Users can update the visible status of more than one Customer Review at the same
     * - Visible?
       - Whether the Customer Review will be visible to outside Customers
 
+Advanced Search
+================== 
+Users can Search for Reviews with different criterion by clicking on the “Advanced Search” button on top of the Customer Review Table.
+
+|Productratingadvancedsearch|
+
+.. list-table:: Product Rating Advanced Search Page
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+    * - Product SN
+      - The Product Code
+    * - Customer SN
+      - The Customer Code
+    * - Order SN
+      - The Order Code
+    * - Review date
+      - The Date Range of Customer Giving The Review
+    * - Rating
+      - The Rating Given by The Customer
+    * - Visible?
+      - "Yes" or "No" Visible Review
+    * - Have image?
+      - "Yes" or "No" Having Product Image?
+    * - Fake Review
+      - "Yes" or "No" Fake Review
+    * - Without comment
+      - The Date Range of Customer Giving The Review * - FIELD NAME
+    * - Referred to CS
+      - "Yes" or "No" Referred to CS
+    * - Item PIC
+      - The Person in Charge of The Product Item
+    * - Order PIC
+      - The Order Code.  The Person in Charge if The Product Order
+
 .. |Productratingmodule| image:: Productratingmodule.JPG
 .. |Productratingbuttons| image:: Productratingbuttons.JPG
 .. |Productratingbatchupdate| image:: Productratingbatchupdate.jpg
+.. |Productadvancedsearch| image:: Productadvancedsearch.jpg
