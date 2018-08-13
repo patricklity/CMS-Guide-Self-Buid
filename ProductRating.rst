@@ -64,6 +64,22 @@ Users can Update, Search, Create and Export Review Details by clicking on the bu
     * - Tools
       - Users can export review details in Excel format
 
+Batch Update
+==================  
+Users can update the visible status of more than one Customer Review at the same time by clicking on the “Batch Update” button on top of the Customer Review table while selecting the Customer reviews at the same time.
+
+|Productratingbatchupdate|
+
+.. list-table:: Product Rating Batch Update Page
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+    * - Visible?
+      - Whether the Customer Review will be visible to outside Customers
 
 .. |Productratingmodule| image:: Productratingmodule.JPG
 .. |Productratingbuttons| image:: Productratingbuttons.JPG
+.. |Productratingbatchupdate| image:: Productratingbatchupdate.jpg
