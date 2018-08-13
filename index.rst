@@ -22,5 +22,6 @@
    ProductHoldInventory
    ProductBatchCreation
    ProductBatchUpdate
+   ProductRating
 
 
