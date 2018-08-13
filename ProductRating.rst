@@ -42,5 +42,28 @@ Product Rating Module displays the review of different Product and Orders from t
       - Referring to CS - Refer The Customer Review to The CS Team, Show - Display The Review, Reply - Reply to The Review, Delete - Delete The Review Item
 
 
+Buttons
+==================  
+Users can Update, Search, Create and Export Review Details by clicking on the buttons above the Review table. You can also Reply or Refer the Review to the Customer Service Team by clicking the corresponding button and The Customer Review in the “Actions” column.
+
+|Productratingbuttons|
+
+.. list-table:: Product Rating Module Buttons
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+    * - Batch Update
+      - Users can select more than one Review at a time and update details of those Reviews simultaneously
+    * - Advanced Search
+      - Users can Search for Reviews by inputting different criterion into the popup window.
+    * - Create Review
+      - Users can create reviews and input new reviews details into the popup window
+    * - Tools
+      - Users can export review details in Excel format
+
 
 .. |Productratingmodule| image:: Productratingmodule.JPG
+.. |Productratingbuttons| image:: Productratingbuttons.JPG
