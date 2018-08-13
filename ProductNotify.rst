@@ -85,7 +85,39 @@ Users can click on the “Advanced Search” button on top of the Product Notifi
       - Buyer Remarked/ Closed/ In Progress.../ Manually Closed Product Notification
       - Buyer Remarked - The Product Notification is Remarked by The Customer to Receive, Closed - The Product Notification is closed, In Progress... - The Product Notification is in the Progress of Notifying Customer, Manually Closed - 
 
+Product Notify Report
+==================
+Users can export Product Notification items details in Excel format by clicking on the “Export Excel” button on top of the Product Notification table.
+
+|Productnotifyreport|
+
+.. list-table:: Product Notify Report Column Headings
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+    * - Item Code
+      - The Product ID
+    * - Brand
+      - The Product Brand
+    * - Name(Eng)
+      - The English Product Name
+    * - Name(Chi)
+      - The Chinese Product Name
+    * - Packsize
+      - The Product Pack size
+    * - Product Status
+      - Active/ Inactive Product
+    * - Number of Notify
+      - The Number of Product Notify of The Product
+    * - First Request Date
+      - The Date of First Product Notify for The Product
+    * - Notify Status
+      - The Product Notification Status
 
 .. |Productnotifymodule| image:: Productnotifymodule.JPG
 .. |Productnotifybutton| image:: Productnotifybutton.JPG
 .. |Productnotifyadvancedsearch| image:: Productnotifyadvancedsearch.jpg
+.. |Productnotifyreport| image:: Productnotifyreport.JPG
