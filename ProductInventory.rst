@@ -58,6 +58,34 @@ Users can search and export Inventory details of different Products by clicking 
     * - Search SN/ Barcode/ Product Name Input Box
       - User can carry out quick search by inputting the related values into the Input Box
    
+Advanced Search
+==================
+Users can click on the “Advanced Search” button on top of the Product Inventory table and input different criterion into the popup window for locating the target Inventory Details.
+
+|Productinventoryadvancedsearch|
+
+.. list-table:: Product Inventory Advanced Search
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+    * - Product Code
+      - The Product Code
+    * - Product Codes
+      - The Product Codes of Products you search for 
+    * - Total SOH
+      - sum of all stock on hand (Normal + Clearance + Expired)
+    * - SOH(N)
+      - The fields states the normal stock on hand. Normal stock means that the best before date deducts min shelf day and deducts 10 days (for delivery process) is after today
+    * - SOH(C)
+      - The fields states the clearance stock on hand. Clearance stock means that the best before date bewteen today plus 10 days (for delivery process) and today pulus 10 days (for delivery process) plus min shelf day.
+    * - SOH(E)
+      - The fields states the expired stock on hand. Expired stock means that the best before date less than today plus 10 days (for delivery process).
+    * - SOH(H)
+      - stock on hand - Hold
 
 .. |Productinventorymodule| image:: Productinventorymodule.JPG
 .. |Productinventorybuttons| image:: Productinventorybuttons.JPG
+.. |Productinventoryadvancedsearch| image:: Productinventoryadvancedsearch.jpg
