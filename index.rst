@@ -16,5 +16,6 @@
    Brand
    Product
    ProductNotify
+   ProductBundle
 
 
