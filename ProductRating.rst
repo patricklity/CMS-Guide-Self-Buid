@@ -117,8 +117,39 @@ Users can Search for Reviews with different criterion by clicking on the “Adva
       - The Person in Charge of The Product Item
     * - Order PIC
       - The Order Code.  The Person in Charge if The Product Order
+      
+Create Review
+================== 
+Users can Create new Review by clicking on the “Create Review” button on top of the Review table.
+
+|Productratingcreatereview|
+
+.. list-table:: Product Rating Create Review Page
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+    * - Product SN
+      - The Product Code
+    * - Description
+      - The Product Description
+    * - Image [1]
+      - Upload Product Review Image here
+    * - Image [2]
+      - Upload Product Review Image here
+    * - Image [3]
+      - Upload Product Review Image here
+    * - Image [4]
+      - Upload Product Review Image here
+    * - Image [5]
+      - Upload Product Review Image here
+   
+
 
 .. |Productratingmodule| image:: Productratingmodule.JPG
 .. |Productratingbuttons| image:: Productratingbuttons.JPG
 .. |Productratingbatchupdate| image:: Productratingbatchupdate.jpg
-.. |Productadvancedsearch| image:: Productadvancedsearch.jpg
+.. |Productratingadvancedsearch| image:: Productratingadvancedsearch.jpg
+.. |Productratingcreatereview| image:: Productratingcreatereview.jpg
