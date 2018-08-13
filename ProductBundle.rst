@@ -92,7 +92,63 @@ Users can create new Product Bundle items by clicking on the “Create Bundle”
       
 .. list-table:: 
 
+Product Bundle Report
+================== 
+Users can export Product Bundle details in Excel format by clicking on the “Tools” button on top of the Product Bundle table.
+
+|Productbundlereport|
+
+.. list-table:: Product Bundle Report Column Headings
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+    * - Bundle SN
+      - The Product Bundle ID
+    * - Bundle Name
+      - The Product Bundle Name
+    * - Packsize
+      - The Product Bundle Pack size
+    * - Unit Cost
+      - The Product Bundle Cost per Unit
+    * - Standard Retail Price
+      - The Product Bundle Standard Retail Price
+    * - Margin
+      - The Product Bundle Profit Margin
+    * - SOH
+      - sum of all stock on hand
+    * - SOH(H)
+      - stock on hand - Hold
+    * - Isactive
+      - Is The Product Bundle active/ inactive
+    * - Product SN
+      - The Product ID
+    * - Brand
+      - The Product Brand
+    * - Product Name
+      - The Product Name
+    * - Packsize
+      - The Product Pack size
+    * - Bundle Set Quantity
+      - The bundle set consist of how many qty of this child, bundle set can consist of different goods
+    * - Unit Cost
+      - The Product Unit Cost
+    * - Standard Retail Price
+      - The Standard Retail Price of The Product
+    * - Margin
+      - The Product Profit Margin
+    * - SOH
+      - sum of all stock on hand
+    * - SOH(H)
+      - stock on hand - Hold
+    * - Isactive
+      - Is The Product Bundle active/ inactive
+      
+.. list-table:: 
 
 .. |Productbundlemodule| image:: Productbundlemodule.JPG
 .. |Productbundlebuttons| image:: Productbundlebuttons.JPG
 .. |Createproductbundle| image:: Createproductbundle.jpg
+.. |Productbundlereport| image:: Productbundlereport.JPG
