@@ -57,6 +57,35 @@ User can search Product Notification items by clicking on the buttons on top of 
     * - Other Search
       - Users can filter Product Notifications by their status.
    
+   
+Advanced Search
+==================
+Users can click on the “Advanced Search” button on top of the Product Notification List and input different criterion in the popup window to search the targeted Product Notification.
+
+|Productnotifyadvancedsearch|
+
+.. list-table:: Product Notify Advanced Search Page
+    :widths: 10 50 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+      - DROPDOWN LIST
+    * - Brand
+      - The Product Brand
+      -
+    * - Product Name
+      - The Product Name
+      -
+    * - Number of Notify
+      - The Number Rage of Product Notification
+      -
+    * - Notify Status
+      - Buyer Remarked/ Closed/ In Progress.../ Manually Closed Product Notification
+      - Buyer Remarked - The Product Notification is Remarked by The Customer to Receive, Closed - The Product Notification is closed, In Progress... - The Product Notification is in the Progress of Notifying Customer, Manually Closed - 
+
 
 .. |Productnotifymodule| image:: Productnotifymodule.JPG
 .. |Productnotifybutton| image:: Productnotifybutton.JPG
+.. |Productnotifyadvancedsearch| image:: Productnotifyadvancedsearch.jpg
