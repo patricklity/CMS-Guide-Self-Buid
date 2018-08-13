@@ -21,5 +21,6 @@
    ProductInventory
    ProductHoldInventory
    ProductBatchCreation
+   ProductBatchUpdate
 
 
