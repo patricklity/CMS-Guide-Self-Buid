@@ -18,5 +18,6 @@
    ProductNotify
    ProductBundle
    FeaturedProduct
+   ProductInventory
 
 
