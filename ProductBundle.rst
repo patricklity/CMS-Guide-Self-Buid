@@ -49,10 +49,10 @@ Product Bundle Module displays the details of all Product Bundles in the table. 
     * - SOH(N)
       - The fields state the normal stock on hand. Normal stock means that the best before date deducts min shelf day and deducts 10 days (for delivery process) is after today
     * - SOH(H)
-      - stock on hand - Hold
+      - stock on hand-Hold
     * - Status
       - Active/ Inactive Product Bundle
     * - Actions
-      - Edit - Edit Product Bundle Information, Archive - Archive Product Bundle Item Information
+      - Edit-Edit Product Bundle Information, Archive-Archive Product Bundle Item Information
 
    .. |Productbundlemodule| image:: Productbundlemodule.JPG
