@@ -51,7 +51,106 @@ Users can select the buttons on top of the Product Promotion table to create, se
       - Users can export Product Promotion Report in Excel Format
     * - Promotion sn, page message input box
       - Users can type Promotion ID or message content to carry out quick search
-   
+      
+      
+Create Product Promotion Items
+==================
+Users can create new Product Promotion items by clicking the “+ Create Promotion” Button on top of The Product Promotion table.
+
+|Createproductpromotion1|
+|Createproductpromotion2|
+|Createproductpromotion3|
+
+.. list-table:: Create Product Promotion Items Page
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+    * - Promotion Type
+      - The Type of Promotion
+    * - Promotion SN
+      - The Promotion ID
+    * - Condition Type
+      - The Type of Product Promotion Condition
+    * - Start Date
+      - The Starting Date of Promotion
+    * - End Date
+      - The Final Date of Promotion
+    * - Repeat Time
+      - How many times can the customer enjoy the promotion offer?
+    * - Status
+      - Active/Inactive Promotion
+    * - Product
+      - The Promotion Product
+    * - Promotion Type
+      - The Type of Promotion
+    * - Promotion SN
+      - The Promotion ID
+    * - Condition Type
+      - The Type of Product Promotion Condition
+    * - Start Date
+      - The Starting Date of Promotion
+    * - End Date
+      - The Final Date of Promotion
+    * - Repeat Time
+      - How many times can the customer enjoy the promotion offer?
+    * - Status
+      - Active/Inactive Promotion
+    * - Product
+      - The Promotion Product
+    * - Promotion Type
+      - The Type of Promotion
+    * - Promotion SN
+      - The Promotion ID
+    * - Condition Type
+      - The Type of Product Promotion Condition
+    * - Start Date
+      - The Starting Date of Promotion
+    * - End Date
+      - The Final Date of Promotion
+    * - Repeat Time
+      - How many times can the customer enjoy the promotion offer?
+    * - Status
+      - Active/Inactive Promotion
+    * - Product
+      - The Promotion Product
+    * - Promotion Page Message (English)
+      - The English Message in The Promotion Page
+    * - Promotion Page Message (Chinese)
+      - The Chinese Message in The Promotion Page
+    * - Promotion Label (English)
+      - The English promotion label which shows in the front end
+    * - Promotion Label (Chinese)
+      - The Chinese promotion label which shows in the front end
+    * - Label Preview (English)
+      - Preview "Promotion Label" effect, check if the characters length over the label size
+    * - Label Preview (Chinese)
+      - Preview "Promotion Label" effect, check if the characters length over the label size
+    * - Promotion Message Receipt (English)
+      - The English Promotion Message Receipt
+    * - Promotion Message Receipt (Chinese)
+      - The Chinese Promotion Message Receipt
+    * - Link (English)
+      - The Link of English Promotion Page
+    * - Link (Chinese)
+      - The Link of Chinese Promotion Page
+    * - T&C (English)
+      - The English Terms and Conditions
+    * - T&C (Chinese)
+      - The Chinese Terms and Conditions
+    * - Condition Value
+      - The Amount of Product/Value Condition for obtaining The Promotion
+    * - Discount Type
+      - The Type of Discount
+    * - Discount Value
+      - The Value of Discount
+
+
 
 .. |Productpromotionmodule| image:: Productpromotionmodule.JPG
 .. |Productpromotionbuttons| image:: Productpromotionbuttons.JPG
+.. |Createproductpromotion1| image:: Createproductpromotion1.jpg
+.. |Createproductpromotion2| image:: Createproductpromotion2.jpg
+.. |Createproductpromotion3| image:: Createproductpromotion3.jpg
