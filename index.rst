@@ -31,3 +31,4 @@
    :maxdepth: 2
 
    PriceUpdate
+   ProductPromotion
