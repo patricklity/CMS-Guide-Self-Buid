@@ -30,4 +30,4 @@
    :caption: Promotion
    :maxdepth: 2
 
-   ProductPromotion
+   PriceUpdate
