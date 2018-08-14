@@ -148,9 +148,38 @@ Users can create new Product Promotion items by clicking the “+ Create Promoti
       - The Value of Discount
 
 
+Product Promotion Report
+==================
+Users can export Product Promotion items in excel format by clicking the “Export Excel” button on top of the Product Promotion Table.
+
+|Productpromotionreport|
+
+.. list-table:: Product Promotion Report Column Headings
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+    * - Promotion SN
+      - The Promotion ID
+    * - Promotion Type
+      - The Promotion Type
+    * - Promotion Page Message (Chinese)
+      - The Chinese Promotion Page Message
+    * - Repeat Time
+      - The Amount of Time Repeating The Promotion Item
+    * - Start Date
+      - The Starting Date of The Promotion
+    * - End Date
+      - The Final Date of The Promotion
+    * - Status
+      - Active/ Inactive/ Expired Promotion Items
 
 .. |Productpromotionmodule| image:: Productpromotionmodule.JPG
 .. |Productpromotionbuttons| image:: Productpromotionbuttons.JPG
 .. |Createproductpromotion1| image:: Createproductpromotion1.jpg
 .. |Createproductpromotion2| image:: Createproductpromotion2.jpg
 .. |Createproductpromotion3| image:: Createproductpromotion3.jpg
+.. |Createproductpromotion3| image:: Createproductpromotion3.jpg
+.. |Productpromotionreport| image:: Productpromotionreport.JPG
