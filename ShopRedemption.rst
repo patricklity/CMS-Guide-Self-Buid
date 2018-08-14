@@ -38,5 +38,27 @@ The Shop Redemption Module shows all the redemption events in the table.
     * - Actions
       - Edit - Edit Shop Redemption Item Information, Download - Download Redemption Item, Delete - Delete Redemption Item
       
-      
+Buttons
+==================
+Users can select the buttons on top of the Promotion Event table to create and search Shop Redemption items.
+
+|Shopredemptionbuttons|
+
+.. list-table:: Shop Redemption Module Buttons
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+    * - Create Shop Redemption
+      - Users can create new Shop Redemption Items
+    * - Advanced Search
+      - Users can search target Shop Redemptions items by different criterion.
+    * - Other Search
+      - Users can search target Shop Redemptions items by different status.
+    * - Title input box
+      - Users can type Shop Redemption Items Title to carry out quick search
+
 .. |Shopredemptionmodule| image:: Shopredemptionmodule.JPG
+.. |Shopredemptionbuttons| image:: Shopredemptionbuttons.JPG
