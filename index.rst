@@ -26,3 +26,8 @@
    ProductCostUpdate
 
 
+.. toctree::
+   :caption: Promotion
+   :maxdepth: 2
+
+   ProductPromotion
