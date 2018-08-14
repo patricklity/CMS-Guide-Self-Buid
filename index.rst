@@ -33,3 +33,4 @@
    PriceUpdate
    ProductPromotion
    PromotionEvent
+   ShopRedemption
