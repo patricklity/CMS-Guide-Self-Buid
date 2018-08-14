@@ -34,3 +34,4 @@
    ProductPromotion
    PromotionEvent
    ShopRedemption
+   PriceUpload
