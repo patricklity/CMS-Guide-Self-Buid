@@ -50,7 +50,7 @@ Daily Report Module displays the Daily Figures (Order Number, Sales Amount etc.)
 
 Daily Report
 ==================
-
+Users can Export the selected Daily Figures with Specific Date Range in Excel Format by clicking on the “Export Excel” button.
 
 
 
