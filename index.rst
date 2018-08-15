@@ -35,3 +35,11 @@
    PromotionEvent
    ShopRedemption
    PriceUpload
+   
+   
+.. toctree::
+   :caption: Report
+   :maxdepth: 2
+
+   DailyReport
+
