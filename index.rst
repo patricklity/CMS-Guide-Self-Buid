@@ -47,4 +47,5 @@
    UserActivity
    CohortReport
    PromotionCodeReport
+   PromotionEventReport
 
