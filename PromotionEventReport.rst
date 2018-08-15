@@ -1,5 +1,5 @@
 ************
-Promotion Event Report Module Module 
+Promotion Event Report Module  
 ************
 Users can search the details of different Promotion Events in this Module.
 
