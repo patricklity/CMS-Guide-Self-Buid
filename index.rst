@@ -46,4 +46,5 @@
    OrderRatingReport
    UserActivity
    CohortReport
+   PromotionCodeReport
 
