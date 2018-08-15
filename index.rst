@@ -45,4 +45,5 @@
    AffiliateReport
    OrderRatingReport
    UserActivity
+   CohortReport
 
