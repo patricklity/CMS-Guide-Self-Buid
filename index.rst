@@ -51,4 +51,5 @@
    SalesReport
    InventoryReport
    CustomerSpecificReport
+   FreebieRedemption
 
