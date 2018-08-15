@@ -52,4 +52,5 @@
    InventoryReport
    CustomerSpecificReport
    FreebieRedemption
+   BasketLevelAnalysis
 
