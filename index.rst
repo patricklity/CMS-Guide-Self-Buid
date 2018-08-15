@@ -42,4 +42,5 @@
    :maxdepth: 2
 
    DailyReport
+   AffiliateReport
 
