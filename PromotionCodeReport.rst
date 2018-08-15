@@ -50,7 +50,7 @@ Users can Search Promotion Code by clicking on the “Advanced Search” button 
     * - Description
       - The Description of Promotion
     * - 1st purchase or not
-      - "Yes" or "no" of a Promotion Code for the 1st Purchase?
+      - "Yes" or "no" of a Promotion Code for the 1st Purchase
   
 
 
