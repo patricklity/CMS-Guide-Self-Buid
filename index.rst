@@ -48,4 +48,5 @@
    CohortReport
    PromotionCodeReport
    PromotionEventReport
+   SalesReport
 
