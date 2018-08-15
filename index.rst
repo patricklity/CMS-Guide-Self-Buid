@@ -50,4 +50,5 @@
    PromotionEventReport
    SalesReport
    InventoryReport
+   CustomerSpecificReport
 
