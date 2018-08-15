@@ -44,4 +44,5 @@
    DailyReport
    AffiliateReport
    OrderRatingReport
+   UserActivity
 
