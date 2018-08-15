@@ -49,4 +49,5 @@
    PromotionCodeReport
    PromotionEventReport
    SalesReport
+   InventoryReport
 
