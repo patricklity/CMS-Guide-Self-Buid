@@ -53,4 +53,5 @@
    CustomerSpecificReport
    FreebieRedemption
    BasketLevelAnalysis
+   GroundPaymentReport
 
